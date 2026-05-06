@@ -280,7 +280,7 @@ available_cols = [c for c in display_cols if c in df.columns]
 styled = (
     df[available_cols]
     .style
-    .applymap(priority_colour, subset=["Alert_Priority"])
+    .map(priority_colour, subset=["Alert_Priority"])
 )
 st.dataframe(styled, use_container_width=True, height=260)
 
