@@ -1,86 +1,76 @@
 import pandas as pd
+import numpy as np
 import random
 
-# ─────────────────────────────────────────────
-# MTN PREFIXES ONLY
-# ─────────────────────────────────────────────
-MTN_PREFIXES = [803, 806, 703, 706, 813, 816, 903, 906]
+def generate_mtn_data(n=1000):
+    data = []
+    plans = {
+        "MTN Monthly 20GB": 5000,
+        "MTN Monthly 10GB": 3000,
+        "MTN Monthly 50GB": 10000,
+        "MTN Weekly 5GB": 1500,
+        "MTN Weekly 1GB": 500,
+        "MTN Daily 2GB": 500,
+        "MTN BetaTalk": 0
+    }
+    
+    vas_options = ["MusicPlus", "CallerTune", "Comedy+", "Daily Devotional", "GameZone", "Sports SMS", "VideoVibe"]
+    usage_patterns = ["Low", "Medium", "High", "Very-High"]
+    times = ["Morning", "Evening", "Night", "All-Day"]
 
-def generate_phone():
-    return str(random.choice(MTN_PREFIXES)) + str(random.randint(1000000, 9999999))
+    for i in range(n):
+        phone = f"0803{random.randint(1000000, 9999999)}"
+        device = random.choices(["Smartphone", "Feature Phone"], weights=[80, 20])[0]
+        
+        # Logic to create specific "Problem Personas"
+        persona = random.choices(["Waste", "Under", "VAS_Heavy", "Optimal"], weights=[30, 20, 25, 25])[0]
+        
+        if persona == "Waste":
+            current_plan = random.choice(["MTN Monthly 20GB", "MTN Monthly 50GB"])
+            avg_usage = random.uniform(0.5, 5.0)
+            expiry_hist = random.uniform(10.0, 35.0)
+            days_left = random.randint(1, 5)
+        elif persona == "Under":
+            current_plan = random.choice(["MTN Weekly 1GB", "MTN Daily 2GB"])
+            avg_usage = random.uniform(8.0, 15.0)
+            expiry_hist = 0.0
+            days_left = random.randint(0, 2)
+        else:
+            current_plan = random.choice(list(plans.keys()))
+            avg_usage = random.uniform(1.0, 10.0)
+            expiry_hist = random.uniform(0.0, 2.0)
+            days_left = random.randint(1, 25)
 
-def usage_profile():
-    r = random.random()
-    if r < 0.30:
-        return "low"
-    elif r < 0.65:
-        return "balanced"
-    elif r < 0.90:
-        return "heavy"
-    else:
-        return "very_heavy"
+        # VAS Logic
+        if persona == "VAS_Heavy" or random.random() < 0.3:
+            num_vas = random.randint(1, 4)
+            selected_vas = random.sample(vas_options, num_vas)
+            vas_names = ", ".join(selected_vas)
+            vas_drain = num_vas * random.choice([200, 300, 450])
+        else:
+            num_vas = 0
+            vas_names = "None"
+            vas_drain = 0
 
-def generate_usage(profile):
-    if profile == "low":
-        data = round(random.uniform(0.01, 0.3), 2)
-        calls = random.randint(100, 400)
-    elif profile == "balanced":
-        data = round(random.uniform(0.5, 3), 2)
-        calls = random.randint(50, 150)
-    elif profile == "heavy":
-        data = round(random.uniform(3, 8), 2)
-        calls = random.randint(30, 120)
-    else:
-        data = round(random.uniform(8, 25), 2)
-        calls = random.randint(10, 100)
-    return data, calls
+        data.append({
+            "phone": phone,
+            "device_type": device,
+            "current_plan": current_plan,
+            "monthly_budget_naira": plans[current_plan] + vas_drain + random.randint(500, 2000),
+            "avg_data_usage_3months": round(avg_usage, 2),
+            "current_data_balance": round(random.uniform(0, 5), 2),
+            "days_to_expiry": days_left,
+            "last_3_months_avg_expiry_gb": round(expiry_hist, 2),
+            "active_vas_count": num_vas,
+            "vas_names": vas_names,
+            "vas_monthly_drain": vas_drain,
+            "voice_usage_pattern": random.choice(usage_patterns),
+            "preferred_time_of_usage": random.choice(times)
+        })
 
-def to_gb(val):
-    if val < 1:
-        return f"{int(val * 1024)}mb"
-    return f"{round(val,2)}gb"
+    return pd.DataFrame(data)
 
-def to_min(val):
-    return f"{val}min"
-
-rows = []
-
-for _ in range(1000):
-    phone = generate_phone()
-    profile = usage_profile()
-
-    data_gb, call_min = generate_usage(profile)
-
-    # usage behavior
-    daily_data = random.uniform(0.01, 2)
-    weekly_data = daily_data * random.uniform(4, 7)
-    monthly_data = weekly_data * random.uniform(3, 5)
-
-    expired_data = random.uniform(0, data_gb)
-
-    daily_call = random.randint(0, 60)
-    weekly_call = daily_call * random.randint(4, 7)
-    monthly_call = weekly_call * random.randint(3, 5)
-
-    vas_sub = random.random() < 0.6  # 60% VAS users
-
-    rows.append({
-        "phone": phone,
-        "data_gb": data_gb,
-        "call_min": call_min,
-        "vas_sub": vas_sub,
-        "daily_data_used": to_gb(daily_data),
-        "Weekly_data_used": to_gb(weekly_data),
-        "Monthly_data_used": to_gb(monthly_data),
-        "av_expired_data": to_gb(expired_data),
-        "daily_av_call": to_min(daily_call),
-        "weekly_av_call": to_min(weekly_call),
-        "monthly_av_call": to_min(monthly_call),
-        "manual_recommendation": "Auto-generated MTN recommendation",
-        "manual_incentive": random.choice(["Airtime", "Data", "None"])
-    })
-
-df = pd.DataFrame(rows)
-df.to_csv("planwise_mtn_1000.csv", index=False)
-
-print("✅ MTN dataset generated: planwise_mtn_1000.csv")
+# Generate and Save
+df_1000 = generate_mtn_data(1000)
+df_1000.to_csv("users.csv", index=False)
+print("Successfully generated mtn_1000_users.csv")

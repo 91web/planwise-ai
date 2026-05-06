@@ -1,0 +1,1001 @@
+phone,device_type,current_plan,monthly_budget_naira,avg_data_usage_3months,current_data_balance,days_to_expiry,last_3_months_avg_expiry_gb,active_vas_count,vas_names,vas_monthly_drain,voice_usage_pattern,preferred_time_of_usage
+08033164749,Smartphone,MTN Monthly 50GB,12461,2.31,1.12,15,1.87,2,"Daily Devotional, MusicPlus",900,High,Morning
+08035079990,Smartphone,MTN Monthly 20GB,7184,1.74,3.99,4,33.24,3,"VideoVibe, Comedy+, GameZone",900,Very-High,All-Day
+08035712707,Smartphone,MTN Monthly 20GB,6312,3.23,2.94,4,23.32,0,None,0,Low,Evening
+08033511902,Smartphone,MTN Monthly 20GB,7947,9.4,2.77,24,1.04,4,"GameZone, VideoVibe, CallerTune, Sports SMS",1200,Low,All-Day
+08035021141,Smartphone,MTN Daily 2GB,1127,7.82,0.47,20,1.87,0,None,0,Low,Morning
+08032512680,Feature Phone,MTN Monthly 20GB,5834,4.47,4.75,1,28.83,0,None,0,Medium,Night
+08038987251,Smartphone,MTN Weekly 1GB,2962,5.11,2.31,11,1.82,4,"Comedy+, Sports SMS, GameZone, Daily Devotional",1200,Very-High,Morning
+08033553560,Smartphone,MTN BetaTalk,923,8.27,0.17,21,1.23,2,"Comedy+, Daily Devotional",400,Very-High,All-Day
+08037808650,Smartphone,MTN Weekly 1GB,2104,11.93,1.6,0,0.0,0,None,0,High,Night
+08037895987,Feature Phone,MTN Weekly 1GB,1579,11.53,0.35,1,0.0,1,MusicPlus,300,Medium,Night
+08035623046,Smartphone,MTN Weekly 1GB,2781,9.32,0.33,0,0.0,1,Sports SMS,300,Medium,Morning
+08035376908,Feature Phone,MTN Monthly 50GB,12377,1.51,3.46,2,28.13,3,"Comedy+, MusicPlus, Sports SMS",1350,Medium,All-Day
+08038520133,Smartphone,MTN Weekly 5GB,4118,4.6,1.59,17,1.34,4,"Daily Devotional, VideoVibe, GameZone, Sports SMS",1800,Low,Evening
+08035623081,Feature Phone,MTN Daily 2GB,1732,12.72,4.36,1,0.0,0,None,0,High,All-Day
+08034041211,Smartphone,MTN Weekly 5GB,2105,1.96,4.42,14,0.58,0,None,0,High,Morning
+08033007788,Smartphone,MTN Daily 2GB,2271,13.96,4.51,0,0.0,3,"GameZone, Sports SMS, CallerTune",600,High,Evening
+08033203124,Smartphone,MTN Weekly 1GB,3308,10.81,4.11,1,0.0,3,"Daily Devotional, CallerTune, VideoVibe",900,Very-High,All-Day
+08036571857,Smartphone,MTN Monthly 50GB,12581,6.82,4.47,8,1.32,4,"Daily Devotional, GameZone, VideoVibe, Sports SMS",800,High,Night
+08039290658,Smartphone,MTN Monthly 50GB,11702,2.22,1.12,5,34.16,0,None,0,High,All-Day
+08038919609,Smartphone,MTN Daily 2GB,2368,9.67,0.18,2,0.0,0,None,0,Low,All-Day
+08038255530,Smartphone,MTN BetaTalk,2967,1.84,3.07,24,1.34,3,"CallerTune, Comedy+, Sports SMS",1350,High,Morning
+08039699235,Smartphone,MTN Daily 2GB,1465,12.19,2.56,2,0.0,0,None,0,High,Morning
+08037464004,Smartphone,MTN Monthly 50GB,12477,4.36,0.57,2,24.44,4,"Comedy+, VideoVibe, CallerTune, Sports SMS",800,Medium,Night
+08031768944,Smartphone,MTN Monthly 50GB,10707,2.23,3.94,10,0.24,0,None,0,Low,Evening
+08039292214,Feature Phone,MTN Monthly 20GB,6683,4.58,0.58,4,31.27,0,None,0,Medium,Night
+08035516290,Smartphone,MTN Monthly 50GB,12126,8.27,3.75,6,1.25,4,"GameZone, VideoVibe, Daily Devotional, MusicPlus",800,High,Night
+08035184733,Smartphone,MTN Daily 2GB,1627,4.1,1.5,19,0.9,0,None,0,Low,Evening
+08039935606,Smartphone,MTN Monthly 50GB,11652,0.91,4.92,4,15.0,0,None,0,Very-High,Morning
+08036162587,Feature Phone,MTN Daily 2GB,3875,5.34,2.44,7,0.69,4,"CallerTune, VideoVibe, GameZone, MusicPlus",1800,Medium,Morning
+08039104875,Feature Phone,MTN Monthly 50GB,11164,2.44,4.62,4,19.17,0,None,0,Very-High,All-Day
+08031972917,Smartphone,MTN Monthly 50GB,12264,2.78,3.4,3,25.47,2,"Comedy+, GameZone",400,Low,Morning
+08032097735,Smartphone,MTN Monthly 20GB,6913,1.88,3.15,5,20.09,0,None,0,High,All-Day
+08033658583,Smartphone,MTN Monthly 50GB,10574,4.03,0.91,4,13.0,0,None,0,Very-High,All-Day
+08031148894,Smartphone,MTN Daily 2GB,2024,3.21,2.33,20,0.28,0,None,0,High,Night
+08037313817,Feature Phone,MTN Daily 2GB,1776,10.61,2.83,0,0.0,3,"VideoVibe, MusicPlus, GameZone",600,Very-High,All-Day
+08032731834,Smartphone,MTN Monthly 20GB,6583,9.88,3.18,2,1.95,0,None,0,High,All-Day
+08035999621,Feature Phone,MTN Daily 2GB,1389,7.52,1.57,15,0.33,0,None,0,Low,Night
+08037293076,Smartphone,MTN Monthly 20GB,6320,5.15,1.71,24,1.94,0,None,0,Low,Night
+08036304991,Feature Phone,MTN BetaTalk,2660,3.3,0.39,10,0.5,4,"Sports SMS, Daily Devotional, GameZone, Comedy+",800,High,Morning
+08032409784,Smartphone,MTN Monthly 50GB,12921,2.75,4.07,16,1.42,3,"Daily Devotional, VideoVibe, CallerTune",1350,Very-High,All-Day
+08033380792,Smartphone,MTN Weekly 5GB,2897,6.58,0.06,8,0.92,1,Comedy+,450,Very-High,All-Day
+08039561498,Smartphone,MTN Monthly 50GB,12538,4.74,1.9,4,32.34,4,"GameZone, Sports SMS, Comedy+, VideoVibe",800,Medium,Morning
+08038053848,Smartphone,MTN Monthly 50GB,12735,5.26,0.64,25,1.28,3,"Daily Devotional, Sports SMS, CallerTune",1350,Low,All-Day
+08034700072,Smartphone,MTN Weekly 1GB,1738,14.57,3.3,0,0.0,0,None,0,High,All-Day
+08032239176,Smartphone,MTN Monthly 50GB,11727,3.79,2.56,3,28.81,0,None,0,Medium,Night
+08036846999,Smartphone,MTN Monthly 50GB,10625,0.92,3.45,1,16.67,0,None,0,High,Morning
+08035806548,Smartphone,MTN Monthly 50GB,10774,2.56,4.46,19,1.46,0,None,0,Very-High,Morning
+08037571223,Smartphone,MTN BetaTalk,2789,5.72,2.52,13,1.35,2,"CallerTune, Daily Devotional",900,Medium,Evening
+08034914108,Smartphone,MTN Weekly 1GB,2415,12.59,2.26,0,0.0,0,None,0,High,Night
+08038911226,Smartphone,MTN Monthly 20GB,5700,1.09,0.73,1,23.84,0,None,0,Medium,Night
+08034822320,Smartphone,MTN Daily 2GB,2075,3.05,2.65,15,0.8,1,MusicPlus,300,High,Night
+08036385959,Smartphone,MTN Monthly 50GB,10981,2.01,1.3,1,13.82,0,None,0,Very-High,Night
+08039876768,Smartphone,MTN Weekly 1GB,2255,14.28,3.99,0,0.0,0,None,0,High,Evening
+08035957534,Smartphone,MTN Daily 2GB,2018,7.08,2.87,12,0.69,2,"VideoVibe, CallerTune",600,Low,All-Day
+08031813702,Smartphone,MTN Monthly 10GB,5207,2.01,4.05,5,1.21,3,"MusicPlus, GameZone, Comedy+",1350,High,Night
+08038087653,Feature Phone,MTN Weekly 1GB,2322,2.86,0.26,4,0.43,0,None,0,High,Morning
+08033444176,Smartphone,MTN Daily 2GB,1759,5.64,3.22,18,0.87,0,None,0,Very-High,Night
+08037239945,Smartphone,MTN Weekly 1GB,2416,14.87,1.75,1,0.0,3,"Daily Devotional, GameZone, CallerTune",1350,Very-High,All-Day
+08037698480,Smartphone,MTN Monthly 20GB,6669,3.84,4.05,2,20.61,0,None,0,Low,Night
+08034173897,Feature Phone,MTN Weekly 1GB,2086,12.3,0.86,0,0.0,0,None,0,Low,All-Day
+08035793278,Feature Phone,MTN Daily 2GB,1299,4.63,1.7,20,0.71,0,None,0,Medium,Evening
+08035790385,Smartphone,MTN Monthly 20GB,8223,4.56,2.22,5,29.93,3,"MusicPlus, GameZone, Comedy+",1350,Low,Evening
+08036415287,Smartphone,MTN Monthly 50GB,13407,4.69,1.72,16,0.51,4,"Sports SMS, Comedy+, Daily Devotional, GameZone",1800,Low,Night
+08034509708,Smartphone,MTN Monthly 50GB,11503,4.06,4.83,2,23.63,1,Sports SMS,450,Low,All-Day
+08037303196,Smartphone,MTN Monthly 50GB,12140,1.6,0.19,1,12.31,2,"Daily Devotional, GameZone",600,Very-High,Night
+08039999034,Smartphone,MTN Monthly 50GB,11624,3.16,2.69,5,21.13,0,None,0,High,Night
+08035148964,Smartphone,MTN Monthly 20GB,6320,2.01,4.19,2,11.25,0,None,0,High,Evening
+08038132944,Smartphone,MTN Monthly 50GB,10686,8.91,3.79,12,0.45,0,None,0,High,Evening
+08035906623,Smartphone,MTN Monthly 50GB,12524,3.12,4.6,2,0.33,4,"Comedy+, GameZone, Daily Devotional, VideoVibe",1200,Very-High,Morning
+08037976390,Smartphone,MTN Monthly 20GB,6592,3.88,0.9,2,0.7,0,None,0,High,Evening
+08034140582,Smartphone,MTN Weekly 1GB,1651,9.68,0.47,0,0.0,0,None,0,Medium,Evening
+08034871152,Smartphone,MTN Monthly 20GB,6750,2.35,4.92,5,26.49,0,None,0,Medium,Night
+08035411715,Smartphone,MTN Daily 2GB,1469,8.46,1.83,0,0.0,0,None,0,Medium,Morning
+08035182593,Smartphone,MTN Daily 2GB,2514,10.23,0.93,2,0.0,1,Sports SMS,450,High,Evening
+08035042334,Smartphone,MTN Weekly 5GB,4407,6.82,0.4,1,0.46,3,"GameZone, MusicPlus, VideoVibe",1350,Medium,Night
+08036048495,Smartphone,MTN BetaTalk,2327,4.14,4.73,23,0.13,4,"Sports SMS, Daily Devotional, VideoVibe, GameZone",800,Medium,All-Day
+08035283112,Feature Phone,MTN Monthly 20GB,7044,3.01,0.92,4,12.36,3,"Daily Devotional, Comedy+, Sports SMS",1350,Medium,All-Day
+08036018230,Smartphone,MTN Daily 2GB,2481,3.14,2.31,17,1.26,0,None,0,Medium,Morning
+08032011152,Smartphone,MTN Monthly 50GB,11103,3.24,4.67,2,15.9,0,None,0,Low,Evening
+08034732286,Smartphone,MTN Daily 2GB,2355,11.0,2.96,2,0.0,0,None,0,High,Evening
+08036983613,Smartphone,MTN Daily 2GB,2972,4.58,4.54,23,1.27,3,"Sports SMS, GameZone, CallerTune",600,Low,All-Day
+08036259888,Smartphone,MTN Monthly 50GB,11996,0.52,3.09,5,26.52,0,None,0,Low,Night
+08034789710,Smartphone,MTN Daily 2GB,2068,10.51,3.27,2,0.0,0,None,0,Low,Morning
+08038151519,Smartphone,MTN Monthly 50GB,11384,3.84,4.24,2,19.71,0,None,0,Low,Morning
+08035965576,Smartphone,MTN Monthly 50GB,11328,3.74,2.31,5,13.99,0,None,0,Very-High,Morning
+08035152995,Smartphone,MTN Monthly 50GB,11232,1.21,3.8,14,1.16,0,None,0,High,All-Day
+08034369944,Smartphone,MTN Monthly 20GB,7232,4.77,0.9,4,21.73,2,"MusicPlus, Sports SMS",400,Medium,All-Day
+08037617565,Smartphone,MTN Weekly 1GB,1545,9.41,1.26,1,0.0,0,None,0,High,Evening
+08031068594,Smartphone,MTN BetaTalk,2294,9.38,0.65,24,1.26,2,"GameZone, Comedy+",400,Low,All-Day
+08038755048,Smartphone,MTN Weekly 1GB,1810,14.63,4.74,0,0.0,0,None,0,Medium,All-Day
+08038028717,Feature Phone,MTN Monthly 20GB,5967,2.77,0.13,1,26.14,0,None,0,High,Morning
+08036610508,Smartphone,MTN Monthly 50GB,10929,1.29,2.48,2,24.31,0,None,0,Medium,Night
+08039154754,Feature Phone,MTN Daily 2GB,2819,8.51,3.07,10,0.12,4,"VideoVibe, CallerTune, Sports SMS, MusicPlus",1200,Very-High,Night
+08037662848,Smartphone,MTN Weekly 1GB,2158,9.04,0.23,1,0.0,0,None,0,High,Morning
+08036162851,Smartphone,MTN Daily 2GB,2151,1.85,2.25,14,0.66,0,None,0,High,Evening
+08035498817,Smartphone,MTN BetaTalk,2836,7.18,4.36,23,1.01,3,"Comedy+, Daily Devotional, VideoVibe",1350,Very-High,Night
+08034803570,Feature Phone,MTN Monthly 50GB,11103,3.1,4.06,5,33.18,0,None,0,High,Night
+08039335886,Smartphone,MTN Monthly 20GB,5792,4.12,4.39,4,17.82,0,None,0,High,Night
+08039223389,Feature Phone,MTN Monthly 20GB,6839,3.66,2.95,5,17.95,0,None,0,Medium,All-Day
+08033001347,Smartphone,MTN Daily 2GB,2150,10.92,4.02,2,0.0,0,None,0,Medium,Morning
+08034768447,Smartphone,MTN Daily 2GB,1760,6.47,4.37,4,1.14,0,None,0,Very-High,Evening
+08036437044,Smartphone,MTN Monthly 10GB,4870,1.63,0.83,6,0.91,2,"GameZone, MusicPlus",600,High,All-Day
+08034107755,Smartphone,MTN Monthly 50GB,11481,9.83,4.03,8,1.93,1,Daily Devotional,450,Medium,Evening
+08036102539,Feature Phone,MTN Monthly 20GB,8011,2.54,2.65,6,1.25,4,"Comedy+, CallerTune, Sports SMS, GameZone",1800,Very-High,Night
+08033700865,Smartphone,MTN Monthly 50GB,10516,2.17,0.06,4,21.1,0,None,0,Low,All-Day
+08035167320,Smartphone,MTN Weekly 1GB,1951,11.06,3.34,2,0.0,0,None,0,Very-High,Morning
+08036267776,Smartphone,MTN Daily 2GB,1703,6.48,3.46,10,1.41,1,Sports SMS,200,High,Morning
+08034543374,Smartphone,MTN Weekly 5GB,4620,6.73,2.0,2,0.74,4,"Daily Devotional, MusicPlus, VideoVibe, Comedy+",1200,Very-High,Night
+08039571955,Smartphone,MTN Monthly 10GB,4578,4.27,3.04,11,1.52,0,None,0,High,Evening
+08032576953,Feature Phone,MTN BetaTalk,950,1.14,0.14,17,1.54,0,None,0,Low,Night
+08038029454,Smartphone,MTN Weekly 1GB,2502,9.54,3.31,2,0.0,4,"VideoVibe, CallerTune, GameZone, Daily Devotional",800,Low,Evening
+08035860728,Feature Phone,MTN Monthly 50GB,10861,3.55,0.04,3,24.59,0,None,0,Medium,Morning
+08036999798,Smartphone,MTN Monthly 10GB,4156,6.03,4.55,15,0.79,0,None,0,Low,Morning
+08037664071,Feature Phone,MTN Daily 2GB,2267,13.23,4.39,1,0.0,0,None,0,High,Evening
+08037489801,Feature Phone,MTN Monthly 50GB,12237,4.27,1.28,4,26.71,1,CallerTune,300,Low,Night
+08034765757,Smartphone,MTN Weekly 1GB,1654,8.09,2.97,0,0.0,0,None,0,Medium,Night
+08033793000,Smartphone,MTN Weekly 1GB,1071,10.82,4.72,1,0.0,0,None,0,Very-High,Evening
+08032161790,Smartphone,MTN Monthly 10GB,3767,7.23,3.87,7,0.42,0,None,0,High,All-Day
+08035094370,Smartphone,MTN Weekly 5GB,3404,3.48,1.9,15,0.06,3,"Comedy+, CallerTune, Daily Devotional",600,Low,Morning
+08039741122,Smartphone,MTN Daily 2GB,1687,7.04,4.36,12,1.2,0,None,0,Low,Night
+08032852255,Smartphone,MTN Monthly 10GB,4742,3.58,0.65,19,1.13,1,VideoVibe,450,High,Morning
+08035664662,Feature Phone,MTN Monthly 20GB,6322,4.39,2.64,5,12.66,1,GameZone,200,Low,Evening
+08033255098,Smartphone,MTN Daily 2GB,1663,9.06,0.62,1,0.0,0,None,0,Medium,Night
+08034621910,Smartphone,MTN BetaTalk,2425,1.92,4.07,19,0.34,4,"Comedy+, Sports SMS, MusicPlus, CallerTune",1200,Very-High,Night
+08032158380,Smartphone,MTN Daily 2GB,2007,7.7,4.26,25,0.7,0,None,0,Medium,Evening
+08038390894,Feature Phone,MTN Weekly 5GB,2756,6.28,4.11,12,1.99,1,Sports SMS,200,Very-High,Night
+08038309954,Smartphone,MTN Daily 2GB,1025,13.04,2.92,1,0.0,0,None,0,Very-High,Evening
+08036866850,Feature Phone,MTN Daily 2GB,1385,8.55,3.19,24,0.83,0,None,0,Very-High,All-Day
+08032298654,Feature Phone,MTN Daily 2GB,1425,9.18,3.45,2,0.0,2,"GameZone, MusicPlus",400,Low,Night
+08038087275,Smartphone,MTN Monthly 50GB,11142,8.8,3.3,22,0.67,3,"GameZone, CallerTune, Daily Devotional",600,High,Evening
+08038523581,Smartphone,MTN Monthly 50GB,11294,2.54,2.72,3,19.94,0,None,0,Very-High,Evening
+08032040231,Smartphone,MTN Weekly 1GB,1085,8.25,4.52,1,0.0,0,None,0,Low,Evening
+08033146487,Smartphone,MTN BetaTalk,1503,8.18,3.51,16,0.82,3,"Comedy+, MusicPlus, Daily Devotional",900,Low,Night
+08035472419,Smartphone,MTN Daily 2GB,2001,5.02,1.46,15,0.64,1,CallerTune,300,Low,All-Day
+08036732433,Smartphone,MTN Monthly 50GB,12063,1.98,3.87,1,20.35,3,"Daily Devotional, Comedy+, Sports SMS",600,Very-High,All-Day
+08036296322,Smartphone,MTN Monthly 50GB,12739,9.75,4.94,10,1.73,3,"GameZone, VideoVibe, Sports SMS",900,Medium,Evening
+08039649277,Smartphone,MTN Monthly 50GB,11421,8.78,4.06,16,2.0,2,"MusicPlus, Daily Devotional",900,Very-High,Evening
+08037335510,Smartphone,MTN Weekly 1GB,2116,9.59,4.61,2,0.0,1,Sports SMS,300,Very-High,All-Day
+08036591969,Smartphone,MTN BetaTalk,902,2.66,3.25,25,0.21,0,None,0,Low,Morning
+08038334442,Smartphone,MTN Monthly 50GB,13080,4.35,3.32,4,23.96,3,"VideoVibe, Daily Devotional, Sports SMS",1350,Very-High,Evening
+08032688005,Smartphone,MTN BetaTalk,692,6.56,2.61,18,1.58,0,None,0,High,Night
+08035471298,Smartphone,MTN Monthly 20GB,7151,3.52,1.78,18,0.42,2,"Sports SMS, VideoVibe",600,Medium,Morning
+08033263844,Feature Phone,MTN BetaTalk,1307,3.56,0.55,11,1.34,4,"GameZone, MusicPlus, Daily Devotional, CallerTune",800,High,Morning
+08037714640,Feature Phone,MTN Daily 2GB,1875,9.33,4.44,1,0.0,0,None,0,Medium,Night
+08031539316,Smartphone,MTN Monthly 20GB,6144,5.57,0.85,22,0.48,0,None,0,High,All-Day
+08038622769,Smartphone,MTN Daily 2GB,1345,11.68,4.81,0,0.0,0,None,0,Low,Night
+08032066132,Smartphone,MTN Weekly 1GB,1962,12.18,0.15,2,0.0,2,"MusicPlus, Comedy+",900,Medium,Morning
+08035931289,Smartphone,MTN Monthly 50GB,11518,5.92,3.64,18,1.07,0,None,0,Very-High,Night
+08032526523,Smartphone,MTN Monthly 20GB,7033,3.85,4.32,4,15.27,3,"MusicPlus, VideoVibe, Sports SMS",600,Very-High,Night
+08036987826,Smartphone,MTN Monthly 10GB,4742,2.35,0.29,16,1.8,0,None,0,Low,Night
+08037341373,Smartphone,MTN Weekly 5GB,3362,3.26,3.53,21,1.94,3,"GameZone, CallerTune, VideoVibe",900,High,Evening
+08033473933,Smartphone,MTN Monthly 20GB,5977,1.16,1.04,3,32.32,0,None,0,Medium,All-Day
+08031163287,Smartphone,MTN Daily 2GB,1945,7.59,1.02,22,1.68,2,"CallerTune, Daily Devotional",600,High,Night
+08032248155,Smartphone,MTN BetaTalk,1621,7.7,4.21,11,0.55,2,"Comedy+, Daily Devotional",400,Very-High,Night
+08035710582,Smartphone,MTN Monthly 20GB,6125,1.59,0.06,13,1.29,0,None,0,Very-High,Night
+08035783245,Feature Phone,MTN Daily 2GB,2360,5.78,0.65,22,1.24,0,None,0,High,Morning
+08037209503,Feature Phone,MTN Monthly 20GB,6665,3.82,3.8,10,1.86,2,"CallerTune, Daily Devotional",600,High,Night
+08032432712,Smartphone,MTN BetaTalk,1689,6.22,3.56,13,0.47,3,"VideoVibe, MusicPlus, GameZone",600,Medium,Morning
+08037456514,Smartphone,MTN Monthly 50GB,10898,4.4,0.81,3,25.29,0,None,0,Low,Morning
+08037584613,Smartphone,MTN Monthly 20GB,8200,3.24,0.75,4,0.25,3,"Comedy+, CallerTune, VideoVibe",1350,High,Evening
+08035563275,Smartphone,MTN Monthly 20GB,6400,2.74,0.72,2,20.1,2,"Comedy+, VideoVibe",900,Low,Evening
+08031090464,Smartphone,MTN Monthly 50GB,11202,4.9,1.76,3,12.74,0,None,0,Medium,Evening
+08033426102,Smartphone,MTN Weekly 1GB,1704,1.83,1.92,5,0.27,1,CallerTune,300,High,Morning
+08035146071,Smartphone,MTN Monthly 50GB,11818,4.81,3.76,3,33.33,0,None,0,Medium,Morning
+08037251662,Feature Phone,MTN Monthly 50GB,10890,4.28,0.61,3,12.58,0,None,0,Very-High,All-Day
+08036690020,Smartphone,MTN Daily 2GB,2656,5.16,1.82,2,0.59,3,"Sports SMS, VideoVibe, MusicPlus",600,Medium,Night
+08031230928,Smartphone,MTN Weekly 5GB,2963,9.5,1.61,5,1.89,1,CallerTune,200,Low,Evening
+08032560025,Smartphone,MTN Weekly 1GB,1042,12.59,1.97,0,0.0,0,None,0,Very-High,Morning
+08037445259,Smartphone,MTN Weekly 1GB,1924,7.41,1.52,11,1.72,0,None,0,High,Morning
+08037258400,Smartphone,MTN Monthly 20GB,6914,4.43,3.16,4,10.29,0,None,0,Very-High,All-Day
+08035589697,Smartphone,MTN Weekly 5GB,3621,5.38,1.74,3,1.9,3,"GameZone, MusicPlus, Daily Devotional",900,Very-High,Night
+08032500544,Feature Phone,MTN Daily 2GB,2391,8.99,2.06,1,0.0,3,"Daily Devotional, Comedy+, GameZone",600,High,Night
+08034596916,Smartphone,MTN Monthly 20GB,5699,4.52,2.68,2,30.64,0,None,0,Medium,Evening
+08037699632,Smartphone,MTN Monthly 50GB,12543,4.17,4.55,5,26.6,4,"Daily Devotional, Sports SMS, MusicPlus, Comedy+",1800,Medium,Night
+08031340932,Smartphone,MTN Weekly 1GB,2006,6.81,4.87,25,0.35,0,None,0,Medium,Morning
+08038193175,Feature Phone,MTN Weekly 1GB,1146,11.02,3.41,2,0.0,0,None,0,High,Evening
+08038681689,Smartphone,MTN Monthly 50GB,10884,3.16,3.18,3,34.87,0,None,0,Low,Evening
+08038182353,Smartphone,MTN Weekly 1GB,1793,9.75,3.13,1,0.0,0,None,0,High,Night
+08037834868,Feature Phone,MTN Weekly 1GB,1914,11.68,2.47,2,0.0,3,"Daily Devotional, CallerTune, MusicPlus",600,Medium,Night
+08034026349,Feature Phone,MTN Daily 2GB,2501,10.83,4.12,2,0.0,4,"CallerTune, MusicPlus, Comedy+, VideoVibe",800,Low,Morning
+08038812140,Feature Phone,MTN Daily 2GB,2837,6.14,2.76,21,0.07,4,"GameZone, Comedy+, VideoVibe, Sports SMS",1200,Low,All-Day
+08031980328,Smartphone,MTN Monthly 50GB,10541,2.81,4.07,3,18.46,0,None,0,Very-High,Morning
+08031969460,Feature Phone,MTN BetaTalk,2751,7.05,0.11,4,1.72,4,"GameZone, Daily Devotional, VideoVibe, MusicPlus",1200,Very-High,All-Day
+08035232931,Smartphone,MTN Weekly 1GB,1011,10.44,3.19,2,0.0,0,None,0,High,Morning
+08032473303,Smartphone,MTN Weekly 1GB,2425,5.74,1.5,20,0.59,2,"Comedy+, VideoVibe",400,Medium,All-Day
+08032023413,Smartphone,MTN Daily 2GB,1901,9.25,3.86,0,0.0,0,None,0,High,Night
+08035676802,Smartphone,MTN Daily 2GB,1169,9.93,1.47,0,0.0,0,None,0,Low,Night
+08034503453,Smartphone,MTN Daily 2GB,1222,13.57,4.14,2,0.0,0,None,0,High,Morning
+08038960212,Feature Phone,MTN Monthly 50GB,11810,4.28,4.79,4,21.73,0,None,0,High,Night
+08035688348,Smartphone,MTN Weekly 1GB,1106,3.14,1.63,8,0.94,0,None,0,High,Night
+08039667260,Smartphone,MTN Monthly 10GB,4272,9.07,3.81,6,1.43,3,"GameZone, Sports SMS, Comedy+",600,Low,Morning
+08037741757,Smartphone,MTN Daily 2GB,2648,7.26,0.89,25,1.08,4,"Comedy+, GameZone, CallerTune, Sports SMS",800,High,Night
+08036357236,Smartphone,MTN Monthly 10GB,4724,6.28,1.95,24,1.5,0,None,0,Low,All-Day
+08036020204,Smartphone,MTN Monthly 20GB,5634,3.5,0.85,4,17.7,0,None,0,Very-High,Evening
+08038200027,Feature Phone,MTN Daily 2GB,2478,9.29,2.26,0,0.0,0,None,0,Medium,Night
+08038399395,Smartphone,MTN Daily 2GB,2253,7.04,4.96,19,1.74,2,"Daily Devotional, VideoVibe",600,Low,Night
+08033821247,Smartphone,MTN Daily 2GB,2372,12.83,2.48,0,0.0,3,"Daily Devotional, VideoVibe, MusicPlus",900,Very-High,All-Day
+08033730949,Smartphone,MTN Weekly 1GB,1845,8.22,1.01,6,0.83,1,MusicPlus,200,Very-High,All-Day
+08036078192,Smartphone,MTN Monthly 50GB,11065,1.0,1.73,5,14.94,0,None,0,Low,Night
+08039215140,Feature Phone,MTN Weekly 1GB,1384,12.21,1.48,1,0.0,0,None,0,Low,Evening
+08036824903,Smartphone,MTN Monthly 20GB,5971,4.3,4.23,3,15.22,0,None,0,Low,Night
+08036310346,Smartphone,MTN Daily 2GB,2238,8.31,3.81,1,0.0,0,None,0,Medium,Evening
+08034715369,Smartphone,MTN Weekly 5GB,2808,8.57,1.4,15,1.73,1,CallerTune,450,Medium,Morning
+08032745614,Smartphone,MTN Daily 2GB,1750,14.9,4.93,0,0.0,0,None,0,Very-High,All-Day
+08034140869,Smartphone,MTN Monthly 10GB,5131,6.57,4.99,1,0.49,4,"VideoVibe, Sports SMS, GameZone, CallerTune",800,Low,Night
+08034540799,Smartphone,MTN Monthly 20GB,6853,2.86,4.32,5,10.62,0,None,0,High,Night
+08035943989,Smartphone,MTN Weekly 1GB,2313,6.33,1.94,21,1.26,3,"VideoVibe, Comedy+, Daily Devotional",600,Low,Evening
+08038239320,Feature Phone,MTN Weekly 5GB,2877,9.67,1.44,15,1.16,1,MusicPlus,450,Medium,Morning
+08038336998,Smartphone,MTN Monthly 50GB,11211,3.28,4.76,2,23.82,0,None,0,High,Night
+08031431847,Smartphone,MTN Daily 2GB,2220,10.9,1.17,1,0.0,4,"Sports SMS, Comedy+, VideoVibe, MusicPlus",800,Medium,Morning
+08037795191,Smartphone,MTN Monthly 20GB,5960,2.67,2.39,5,31.59,1,Daily Devotional,200,Low,All-Day
+08038397389,Smartphone,MTN Monthly 50GB,11315,2.06,4.51,3,30.22,0,None,0,Medium,All-Day
+08038743054,Smartphone,MTN BetaTalk,677,1.23,2.58,12,1.04,0,None,0,Medium,Evening
+08031167082,Feature Phone,MTN Monthly 20GB,7313,3.81,3.7,2,10.99,2,"VideoVibe, GameZone",600,Low,Night
+08037596929,Smartphone,MTN Monthly 10GB,5887,6.99,3.14,6,0.44,4,"GameZone, Daily Devotional, VideoVibe, Comedy+",1200,Low,All-Day
+08039122727,Smartphone,MTN Weekly 1GB,2224,7.27,4.01,21,1.75,0,None,0,Medium,Night
+08038458466,Smartphone,MTN Monthly 50GB,10780,4.72,2.02,5,16.69,0,None,0,Medium,Night
+08034441339,Smartphone,MTN Monthly 20GB,5726,1.22,2.98,4,32.12,0,None,0,High,All-Day
+08037109486,Smartphone,MTN Monthly 20GB,6500,0.82,3.33,2,28.32,0,None,0,High,Evening
+08038396131,Smartphone,MTN Weekly 1GB,2077,8.01,2.51,22,0.48,0,None,0,Very-High,Evening
+08037488568,Smartphone,MTN Monthly 50GB,12219,5.9,3.29,2,1.27,2,"MusicPlus, VideoVibe",400,High,All-Day
+08033854009,Smartphone,MTN Monthly 10GB,4292,4.83,3.08,14,0.26,0,None,0,High,Morning
+08033382133,Smartphone,MTN Weekly 5GB,3700,9.28,1.14,23,1.04,3,"GameZone, CallerTune, Comedy+",900,Low,Night
+08038869411,Smartphone,MTN Monthly 50GB,12784,3.57,2.11,1,31.6,4,"GameZone, MusicPlus, Daily Devotional, Comedy+",1800,Medium,All-Day
+08038579247,Feature Phone,MTN Monthly 20GB,6693,0.81,2.39,5,30.87,0,None,0,Very-High,All-Day
+08034097525,Feature Phone,MTN Daily 2GB,2979,14.64,4.89,2,0.0,3,"Comedy+, VideoVibe, Sports SMS",900,Low,All-Day
+08031106763,Smartphone,MTN Monthly 20GB,7272,3.82,2.31,1,18.89,2,"Sports SMS, GameZone",900,Low,Evening
+08036133352,Smartphone,MTN Monthly 50GB,11143,4.97,1.28,1,28.47,0,None,0,High,All-Day
+08032015330,Smartphone,MTN Monthly 50GB,12295,5.73,0.31,14,1.6,4,"GameZone, Daily Devotional, Sports SMS, MusicPlus",800,Very-High,Night
+08036200952,Smartphone,MTN Monthly 50GB,11868,1.27,0.16,1,20.06,0,None,0,High,All-Day
+08038075786,Smartphone,MTN Monthly 20GB,6298,4.57,1.17,3,11.58,0,None,0,Very-High,Night
+08033865104,Feature Phone,MTN Weekly 1GB,2112,9.36,0.23,19,0.92,0,None,0,High,Night
+08033040346,Smartphone,MTN Weekly 1GB,3665,12.45,4.15,1,0.0,4,"Sports SMS, Daily Devotional, VideoVibe, Comedy+",1800,Medium,Evening
+08035462310,Smartphone,MTN Monthly 50GB,12000,4.7,0.17,5,32.63,3,"Sports SMS, CallerTune, Comedy+",900,Very-High,Night
+08036175187,Smartphone,MTN Monthly 50GB,11122,0.72,2.52,2,18.41,0,None,0,High,Morning
+08035833373,Smartphone,MTN Daily 2GB,2150,5.59,1.18,15,0.9,1,CallerTune,300,Very-High,Night
+08033547400,Smartphone,MTN Monthly 20GB,6999,4.35,0.88,5,23.48,0,None,0,Very-High,Morning
+08033377531,Smartphone,MTN Weekly 1GB,2699,11.9,3.39,1,0.0,3,"VideoVibe, Daily Devotional, GameZone",900,Very-High,Evening
+08034292975,Smartphone,MTN Weekly 1GB,2207,4.08,2.05,2,0.36,0,None,0,High,Night
+08037610671,Smartphone,MTN Monthly 10GB,4426,6.6,1.83,13,0.16,0,None,0,Very-High,Night
+08031427428,Smartphone,MTN Monthly 20GB,5577,9.38,2.89,18,0.56,0,None,0,Low,All-Day
+08038856306,Smartphone,MTN Weekly 1GB,1686,8.58,2.11,14,1.69,0,None,0,Medium,Morning
+08031355571,Smartphone,MTN Weekly 5GB,3804,1.41,1.64,10,0.62,2,"Daily Devotional, MusicPlus",900,Low,Evening
+08032770389,Smartphone,MTN Monthly 20GB,5988,1.99,0.85,3,16.55,1,VideoVibe,200,Medium,Evening
+08038198822,Smartphone,MTN Monthly 20GB,7260,1.98,1.67,5,29.9,1,MusicPlus,450,Very-High,Morning
+08035757397,Smartphone,MTN Weekly 5GB,3191,6.28,3.35,19,1.54,0,None,0,Very-High,Night
+08035012966,Smartphone,MTN Monthly 20GB,5753,0.99,2.35,2,14.57,0,None,0,High,Night
+08032057287,Smartphone,MTN Weekly 1GB,2112,9.52,3.13,24,0.88,0,None,0,Medium,Morning
+08035858526,Smartphone,MTN Daily 2GB,1429,11.5,0.46,0,0.0,0,None,0,Medium,Evening
+08031672260,Smartphone,MTN Weekly 1GB,3581,8.3,4.5,0,0.0,4,"VideoVibe, Comedy+, CallerTune, MusicPlus",1800,Very-High,Night
+08037848159,Feature Phone,MTN Monthly 20GB,6331,4.03,0.41,22,1.86,1,VideoVibe,200,High,All-Day
+08032853792,Smartphone,MTN Monthly 50GB,11322,1.36,1.39,3,13.19,0,None,0,High,Evening
+08037786458,Smartphone,MTN Monthly 10GB,4770,7.56,0.32,20,1.96,2,"VideoVibe, Daily Devotional",600,Very-High,All-Day
+08039654695,Feature Phone,MTN Monthly 20GB,6080,6.93,0.69,8,0.27,0,None,0,High,Evening
+08039027255,Feature Phone,MTN Daily 2GB,1998,8.9,2.46,1,0.0,0,None,0,High,Night
+08033044914,Smartphone,MTN Weekly 1GB,3125,2.02,0.72,6,1.86,4,"GameZone, Comedy+, MusicPlus, VideoVibe",800,High,Evening
+08037586695,Smartphone,MTN Weekly 5GB,3468,3.57,0.43,3,1.35,0,None,0,Low,Evening
+08035137549,Smartphone,MTN BetaTalk,1988,1.55,0.38,10,0.59,2,"MusicPlus, Sports SMS",900,High,Night
+08033615066,Smartphone,MTN BetaTalk,1769,9.14,1.07,9,1.07,4,"CallerTune, MusicPlus, Sports SMS, VideoVibe",800,Medium,Evening
+08038859206,Feature Phone,MTN Weekly 1GB,1911,8.75,3.78,12,1.84,3,"MusicPlus, VideoVibe, CallerTune",600,Medium,Evening
+08038066520,Smartphone,MTN Monthly 50GB,11638,3.02,2.94,3,34.73,0,None,0,Medium,Evening
+08037796786,Feature Phone,MTN Weekly 1GB,2044,14.93,3.17,0,0.0,2,"Daily Devotional, Sports SMS",400,High,Night
+08033021832,Smartphone,MTN Weekly 1GB,2175,13.22,1.43,2,0.0,1,GameZone,450,High,Night
+08036733677,Smartphone,MTN Weekly 5GB,3164,8.0,3.33,24,1.6,2,"CallerTune, Daily Devotional",600,Very-High,Morning
+08032807610,Smartphone,MTN Monthly 50GB,11830,7.84,4.46,17,0.42,2,"Sports SMS, MusicPlus",400,Medium,Morning
+08037842504,Smartphone,MTN BetaTalk,2340,5.4,1.87,7,1.79,3,"GameZone, Comedy+, CallerTune",1350,Very-High,Evening
+08036674925,Smartphone,MTN Weekly 1GB,2617,2.36,0.1,14,1.22,2,"Comedy+, MusicPlus",900,High,Morning
+08036985123,Smartphone,MTN BetaTalk,2148,9.21,1.08,18,0.04,2,"CallerTune, MusicPlus",400,Very-High,All-Day
+08034571078,Smartphone,MTN Monthly 50GB,11628,6.96,1.44,9,1.69,0,None,0,Medium,All-Day
+08031888360,Smartphone,MTN Monthly 20GB,6960,2.46,3.99,1,22.22,0,None,0,High,All-Day
+08037169101,Smartphone,MTN Monthly 20GB,6459,4.57,3.03,3,30.5,0,None,0,Very-High,Evening
+08031071531,Feature Phone,MTN Monthly 20GB,6686,4.69,1.19,4,12.0,0,None,0,High,Night
+08033797603,Smartphone,MTN Monthly 50GB,10719,4.43,3.86,2,17.68,0,None,0,Medium,Evening
+08038833655,Smartphone,MTN Weekly 1GB,1884,8.63,2.39,0,0.0,0,None,0,High,Night
+08032572430,Feature Phone,MTN Monthly 20GB,6317,4.4,3.5,4,34.29,0,None,0,Low,All-Day
+08037190156,Smartphone,MTN Monthly 20GB,6537,1.72,3.63,2,33.52,0,None,0,Low,All-Day
+08035963735,Feature Phone,MTN Monthly 50GB,10890,2.43,0.25,1,24.49,0,None,0,Medium,Night
+08038553757,Smartphone,MTN Daily 2GB,1922,11.09,1.75,1,0.0,0,None,0,Very-High,Night
+08035469831,Smartphone,MTN Monthly 20GB,6751,9.64,3.77,19,0.44,1,MusicPlus,450,Low,Night
+08037739629,Smartphone,MTN Daily 2GB,2627,7.06,0.86,23,1.46,3,"VideoVibe, Daily Devotional, Sports SMS",600,Medium,Evening
+08037022836,Smartphone,MTN BetaTalk,1052,2.2,0.98,16,1.92,0,None,0,Very-High,Evening
+08038331365,Smartphone,MTN Monthly 50GB,11122,5.23,4.85,10,0.09,2,"CallerTune, Comedy+",400,Medium,Morning
+08036864500,Feature Phone,MTN Monthly 50GB,10807,4.32,0.11,5,32.87,0,None,0,Low,Night
+08035930395,Smartphone,MTN Daily 2GB,2599,2.16,2.84,7,1.08,4,"Comedy+, CallerTune, VideoVibe, Daily Devotional",1200,Low,Morning
+08036536375,Smartphone,MTN Monthly 20GB,7787,5.84,4.86,6,1.64,4,"MusicPlus, Comedy+, GameZone, VideoVibe",1200,Very-High,Morning
+08036538443,Smartphone,MTN Monthly 50GB,11111,3.27,0.72,3,13.41,2,"CallerTune, MusicPlus",400,Medium,All-Day
+08039046957,Smartphone,MTN Monthly 20GB,6328,1.67,1.09,5,33.87,0,None,0,Very-High,Morning
+08034865340,Smartphone,MTN Weekly 1GB,2322,7.61,1.45,3,0.81,4,"MusicPlus, Comedy+, GameZone, Daily Devotional",800,Medium,Evening
+08035118964,Smartphone,MTN Monthly 20GB,5641,3.29,4.9,3,26.12,0,None,0,High,Evening
+08034861177,Smartphone,MTN Monthly 10GB,5261,4.36,0.07,11,1.41,1,Sports SMS,300,Low,Morning
+08038854886,Smartphone,MTN Daily 2GB,2246,11.92,3.73,2,0.0,0,None,0,Very-High,Evening
+08034965201,Smartphone,MTN Monthly 50GB,11663,3.6,3.79,1,28.06,0,None,0,Very-High,All-Day
+08034719842,Smartphone,MTN Weekly 5GB,3755,4.26,3.2,18,1.42,4,"MusicPlus, CallerTune, GameZone, Comedy+",1200,High,Morning
+08032862155,Smartphone,MTN Monthly 20GB,7456,1.0,1.12,4,23.74,4,"Comedy+, GameZone, Sports SMS, VideoVibe",1200,Medium,All-Day
+08034016116,Smartphone,MTN Weekly 1GB,2269,11.56,2.45,1,0.0,0,None,0,High,Morning
+08035917108,Feature Phone,MTN Weekly 5GB,2806,8.4,2.26,15,1.14,0,None,0,Very-High,Night
+08039931886,Smartphone,MTN Monthly 20GB,6555,1.61,2.86,5,10.43,0,None,0,Medium,All-Day
+08035585799,Smartphone,MTN Monthly 20GB,6855,0.61,2.6,1,25.5,2,"GameZone, VideoVibe",600,Medium,Night
+08032161837,Smartphone,MTN Daily 2GB,2338,12.14,1.03,0,0.0,0,None,0,Very-High,All-Day
+08032491274,Feature Phone,MTN BetaTalk,1797,7.18,2.79,24,1.85,0,None,0,Low,Evening
+08038838654,Feature Phone,MTN Monthly 50GB,11814,4.42,2.65,2,19.95,0,None,0,Medium,All-Day
+08039351252,Smartphone,MTN Weekly 1GB,1907,1.99,1.22,8,1.68,1,Sports SMS,300,Low,All-Day
+08031476587,Smartphone,MTN Monthly 20GB,6780,3.44,1.96,4,17.51,0,None,0,Medium,Night
+08038007458,Smartphone,MTN Daily 2GB,1492,8.97,4.58,0,0.0,0,None,0,Medium,Morning
+08035162244,Smartphone,MTN Daily 2GB,3696,8.64,0.08,2,0.0,3,"Sports SMS, GameZone, MusicPlus",1350,High,Evening
+08037858609,Smartphone,MTN Monthly 20GB,7647,7.05,1.1,17,0.38,4,"Daily Devotional, Sports SMS, GameZone, MusicPlus",1800,Low,Night
+08039092353,Smartphone,MTN Monthly 50GB,11269,1.0,2.57,3,13.16,0,None,0,Very-High,All-Day
+08033845242,Smartphone,MTN Monthly 50GB,10933,0.51,2.17,4,31.45,0,None,0,Low,Night
+08035506853,Feature Phone,MTN Weekly 1GB,1659,5.64,5.0,14,1.47,2,"GameZone, Daily Devotional",400,Low,All-Day
+08032707451,Feature Phone,MTN Daily 2GB,1455,7.92,0.92,8,1.46,0,None,0,Medium,Morning
+08035139960,Smartphone,MTN BetaTalk,2376,8.44,3.26,22,1.92,1,MusicPlus,450,Low,Evening
+08039564334,Smartphone,MTN BetaTalk,1051,7.27,2.2,6,0.49,0,None,0,Medium,Night
+08032309023,Smartphone,MTN Weekly 1GB,2182,4.29,0.7,2,0.62,0,None,0,Medium,Night
+08033438108,Smartphone,MTN Weekly 5GB,3722,5.13,2.04,23,0.69,1,MusicPlus,300,Medium,Night
+08032397133,Smartphone,MTN Weekly 5GB,2251,9.45,0.68,5,0.42,0,None,0,Low,Evening
+08036659951,Smartphone,MTN BetaTalk,2685,1.93,3.51,24,0.23,3,"Daily Devotional, MusicPlus, CallerTune",900,High,Evening
+08031188059,Smartphone,MTN Weekly 5GB,4730,6.61,3.71,3,0.52,4,"MusicPlus, CallerTune, Daily Devotional, Comedy+",1800,Low,Night
+08038546260,Smartphone,MTN Monthly 50GB,11423,6.02,0.28,7,1.18,1,Sports SMS,300,High,All-Day
+08038250684,Feature Phone,MTN Monthly 50GB,10801,3.65,2.59,9,0.36,1,Comedy+,300,Very-High,Evening
+08034402826,Feature Phone,MTN Monthly 20GB,5538,4.07,2.59,4,28.2,0,None,0,Low,Evening
+08039277604,Smartphone,MTN Monthly 20GB,5870,9.56,1.18,12,0.68,0,None,0,High,Evening
+08032015003,Smartphone,MTN Monthly 10GB,4628,9.15,4.34,16,1.34,0,None,0,High,Evening
+08035831500,Smartphone,MTN Daily 2GB,2411,14.16,3.28,0,0.0,0,None,0,Low,All-Day
+08039444233,Smartphone,MTN Daily 2GB,3078,2.11,0.92,11,0.24,2,"Daily Devotional, MusicPlus",900,Very-High,Morning
+08036926784,Smartphone,MTN Weekly 5GB,2365,8.83,4.02,22,1.71,1,CallerTune,300,Very-High,Morning
+08035533174,Smartphone,MTN Daily 2GB,3047,8.39,3.77,0,0.0,4,"Daily Devotional, CallerTune, VideoVibe, GameZone",1200,High,Morning
+08038791043,Smartphone,MTN Weekly 1GB,3607,6.57,4.42,1,0.99,4,"Daily Devotional, Comedy+, GameZone, Sports SMS",1200,High,All-Day
+08038662746,Smartphone,MTN Monthly 50GB,11032,3.07,1.61,4,18.78,0,None,0,High,Morning
+08036348875,Smartphone,MTN Monthly 20GB,6486,2.68,4.41,2,27.54,0,None,0,High,Morning
+08031004973,Smartphone,MTN Weekly 1GB,3674,8.65,0.3,5,0.74,4,"GameZone, CallerTune, MusicPlus, Sports SMS",1200,Medium,Morning
+08033358553,Feature Phone,MTN Monthly 20GB,7339,4.45,1.63,8,1.34,4,"Comedy+, Sports SMS, VideoVibe, GameZone",1200,Very-High,All-Day
+08037002439,Smartphone,MTN BetaTalk,962,1.15,1.54,7,1.32,0,None,0,Medium,Evening
+08034125138,Smartphone,MTN Weekly 1GB,1907,9.16,3.48,16,0.66,2,"MusicPlus, Daily Devotional",900,High,Night
+08038220396,Smartphone,MTN Daily 2GB,2199,9.13,3.69,0,0.0,0,None,0,Medium,All-Day
+08033109259,Feature Phone,MTN Monthly 50GB,11097,1.6,3.06,2,10.23,0,None,0,Very-High,Night
+08037026235,Smartphone,MTN Monthly 20GB,6763,4.47,0.26,5,20.17,2,"Sports SMS, VideoVibe",900,Low,Morning
+08039500346,Smartphone,MTN Monthly 10GB,5687,5.46,3.85,18,1.15,2,"CallerTune, Sports SMS",900,High,All-Day
+08039626013,Smartphone,MTN Monthly 20GB,6431,2.3,1.39,4,34.98,0,None,0,Medium,All-Day
+08039858158,Smartphone,MTN Monthly 50GB,11529,3.08,3.99,5,31.42,0,None,0,Low,All-Day
+08036299308,Smartphone,MTN Monthly 50GB,10537,4.41,1.41,4,25.85,0,None,0,Very-High,Morning
+08037960941,Smartphone,MTN Daily 2GB,2706,1.28,2.39,14,1.83,1,CallerTune,450,Low,All-Day
+08039613420,Smartphone,MTN Daily 2GB,1560,10.2,2.62,2,0.0,0,None,0,Medium,Night
+08032001184,Smartphone,MTN Monthly 20GB,6529,1.9,0.92,1,34.71,0,None,0,Low,All-Day
+08032423856,Feature Phone,MTN Monthly 20GB,6457,6.28,1.17,4,1.71,3,"CallerTune, GameZone, Daily Devotional",600,High,Morning
+08035709599,Smartphone,MTN Monthly 50GB,10616,3.62,2.12,7,0.1,0,None,0,Medium,All-Day
+08039151495,Smartphone,MTN Daily 2GB,1950,12.73,2.87,1,0.0,0,None,0,Very-High,Night
+08038383058,Smartphone,MTN Monthly 20GB,7588,7.53,0.09,25,0.72,3,"MusicPlus, CallerTune, Comedy+",1350,Very-High,Night
+08039171818,Smartphone,MTN Daily 2GB,3210,10.05,4.29,0,0.0,2,"Daily Devotional, MusicPlus",900,Very-High,All-Day
+08032944575,Smartphone,MTN Monthly 50GB,10931,4.13,0.13,1,33.21,1,Daily Devotional,300,Very-High,Morning
+08031473970,Smartphone,MTN Monthly 20GB,6617,9.66,4.03,12,0.78,0,None,0,Low,All-Day
+08034703100,Smartphone,MTN Monthly 50GB,10749,1.53,0.19,3,10.08,0,None,0,High,Morning
+08039048167,Smartphone,MTN Daily 2GB,1501,11.32,2.01,1,0.0,0,None,0,Very-High,Morning
+08032437227,Smartphone,MTN Daily 2GB,2680,7.74,2.6,16,0.89,1,CallerTune,450,Medium,Morning
+08038539207,Smartphone,MTN Daily 2GB,1660,3.24,4.04,11,0.46,2,"VideoVibe, MusicPlus",400,High,Morning
+08037186840,Smartphone,MTN Monthly 20GB,6005,4.99,4.18,3,23.47,0,None,0,Very-High,Evening
+08039406531,Feature Phone,MTN Monthly 10GB,5250,6.93,1.4,2,0.77,3,"CallerTune, Daily Devotional, MusicPlus",1350,Very-High,Evening
+08035536942,Smartphone,MTN Monthly 20GB,6909,1.39,1.61,2,11.65,0,None,0,Low,All-Day
+08037957060,Smartphone,MTN BetaTalk,2886,3.9,2.98,18,1.85,3,"CallerTune, Comedy+, Daily Devotional",1350,Medium,Evening
+08037641146,Smartphone,MTN Monthly 50GB,11006,3.05,1.28,4,30.46,0,None,0,High,All-Day
+08035843643,Smartphone,MTN Monthly 20GB,6508,0.77,3.33,4,19.43,0,None,0,Medium,Night
+08039068661,Smartphone,MTN Monthly 50GB,10933,1.02,2.03,2,24.83,0,None,0,Low,Morning
+08039894596,Feature Phone,MTN Monthly 50GB,12368,6.94,2.59,5,0.91,3,"Sports SMS, Daily Devotional, CallerTune",1350,High,All-Day
+08036692088,Smartphone,MTN Monthly 20GB,6849,1.64,4.45,2,13.27,0,None,0,Low,Evening
+08037594096,Smartphone,MTN Monthly 20GB,7477,0.84,3.61,1,28.02,4,"Sports SMS, CallerTune, VideoVibe, Daily Devotional",1200,High,Night
+08038257047,Smartphone,MTN Monthly 20GB,6005,7.0,4.26,7,1.49,0,None,0,Low,Morning
+08032243920,Smartphone,MTN Daily 2GB,2346,1.91,4.59,8,1.81,4,"Sports SMS, Daily Devotional, VideoVibe, MusicPlus",800,High,Evening
+08033987559,Smartphone,MTN BetaTalk,1946,8.18,4.61,4,1.58,0,None,0,Medium,Night
+08039292922,Smartphone,MTN Monthly 50GB,11792,1.42,2.4,1,28.07,0,None,0,Low,Night
+08037309404,Smartphone,MTN Weekly 1GB,2607,3.03,1.15,13,0.9,2,"Daily Devotional, CallerTune",900,Medium,Night
+08036436047,Smartphone,MTN Weekly 5GB,2682,4.06,3.67,23,1.73,0,None,0,Medium,Morning
+08031507606,Smartphone,MTN Monthly 50GB,11983,4.63,4.04,5,11.01,0,None,0,High,Night
+08039458283,Smartphone,MTN Monthly 20GB,6718,8.92,4.75,3,0.0,0,None,0,High,All-Day
+08033529724,Smartphone,MTN Daily 2GB,3230,1.81,1.73,14,0.16,3,"GameZone, MusicPlus, Daily Devotional",900,Very-High,All-Day
+08032087502,Smartphone,MTN Monthly 50GB,11861,1.9,1.05,2,0.85,4,"VideoVibe, Comedy+, GameZone, CallerTune",800,Very-High,All-Day
+08033113784,Smartphone,MTN Daily 2GB,1929,14.41,4.48,0,0.0,0,None,0,High,Morning
+08038698079,Smartphone,MTN Daily 2GB,2436,12.19,0.52,2,0.0,0,None,0,Medium,Evening
+08036790978,Smartphone,MTN Weekly 1GB,1741,4.03,2.46,15,0.84,0,None,0,High,All-Day
+08033940313,Smartphone,MTN Daily 2GB,3234,1.35,1.0,21,0.94,4,"Daily Devotional, VideoVibe, GameZone, CallerTune",1200,Low,Morning
+08035677323,Smartphone,MTN Monthly 20GB,6516,3.68,2.85,4,34.44,0,None,0,Low,Night
+08035356693,Smartphone,MTN Monthly 50GB,11621,4.3,0.91,1,20.19,0,None,0,Medium,All-Day
+08035081873,Feature Phone,MTN Monthly 50GB,12241,5.77,0.59,24,0.17,4,"VideoVibe, CallerTune, Sports SMS, Daily Devotional",1200,Low,All-Day
+08031756421,Smartphone,MTN Monthly 50GB,10549,6.96,1.08,7,0.28,0,None,0,High,Morning
+08034644136,Smartphone,MTN Monthly 50GB,11576,4.35,2.92,5,16.51,0,None,0,High,All-Day
+08034764658,Smartphone,MTN Monthly 20GB,6223,1.15,3.8,3,21.23,0,None,0,Medium,All-Day
+08033938431,Smartphone,MTN Monthly 50GB,12226,4.94,2.38,3,16.68,3,"GameZone, VideoVibe, Daily Devotional",1350,High,All-Day
+08037361414,Smartphone,MTN Monthly 20GB,8190,1.96,2.94,21,0.96,3,"GameZone, VideoVibe, Daily Devotional",1350,Very-High,Morning
+08038523659,Smartphone,MTN Weekly 1GB,3164,4.56,0.51,15,1.33,4,"GameZone, CallerTune, Sports SMS, Daily Devotional",1800,Very-High,Evening
+08031827296,Feature Phone,MTN BetaTalk,1841,2.02,0.31,4,0.02,3,"CallerTune, Sports SMS, Daily Devotional",900,Medium,All-Day
+08032767816,Smartphone,MTN Weekly 5GB,2107,8.8,1.01,17,1.21,0,None,0,High,All-Day
+08034153000,Smartphone,MTN BetaTalk,2678,7.38,2.0,9,0.91,3,"MusicPlus, Comedy+, GameZone",900,Very-High,Morning
+08035960779,Smartphone,MTN Daily 2GB,2983,9.11,3.52,12,1.44,3,"GameZone, CallerTune, Daily Devotional",600,High,Night
+08033659715,Smartphone,MTN Daily 2GB,2231,8.34,3.81,24,1.56,2,"Sports SMS, MusicPlus",400,Low,Night
+08036907722,Smartphone,MTN Monthly 10GB,4596,8.92,0.66,6,1.04,2,"MusicPlus, Daily Devotional",400,High,All-Day
+08038939828,Smartphone,MTN Daily 2GB,1347,13.56,1.1,0,0.0,0,None,0,Very-High,Night
+08034447718,Feature Phone,MTN Monthly 10GB,4161,2.36,3.25,9,0.95,1,Comedy+,450,Very-High,Morning
+08031166131,Smartphone,MTN Daily 2GB,1411,14.26,2.75,1,0.0,0,None,0,Low,Night
+08039276561,Smartphone,MTN Daily 2GB,1153,13.7,0.66,2,0.0,0,None,0,Medium,All-Day
+08032064402,Smartphone,MTN Monthly 50GB,11407,3.67,2.45,1,29.4,0,None,0,High,Evening
+08037450508,Smartphone,MTN Monthly 50GB,10694,7.37,1.52,23,0.82,0,None,0,Medium,Morning
+08038916820,Smartphone,MTN Monthly 20GB,6954,3.39,4.59,5,27.3,0,None,0,High,Night
+08039809782,Smartphone,MTN Weekly 1GB,1718,6.34,2.61,8,1.9,3,"Daily Devotional, Sports SMS, MusicPlus",600,High,All-Day
+08036262426,Smartphone,MTN Weekly 1GB,2293,1.55,3.24,5,1.24,0,None,0,High,Evening
+08035940288,Smartphone,MTN Weekly 5GB,3144,4.48,0.77,12,1.9,0,None,0,Low,Evening
+08031382508,Smartphone,MTN Monthly 50GB,10603,2.8,4.85,3,10.39,0,None,0,Very-High,Morning
+08035882546,Smartphone,MTN Daily 2GB,3563,7.69,0.28,15,0.14,3,"VideoVibe, Daily Devotional, MusicPlus",1350,Very-High,Morning
+08031249913,Smartphone,MTN Monthly 20GB,6671,2.31,2.9,13,0.34,2,"MusicPlus, VideoVibe",900,High,All-Day
+08038364082,Smartphone,MTN Monthly 20GB,5956,2.47,3.81,5,10.2,0,None,0,High,Night
+08034885229,Feature Phone,MTN Monthly 50GB,11417,0.83,4.58,5,15.29,3,"Daily Devotional, GameZone, Comedy+",900,Very-High,Night
+08036024722,Smartphone,MTN Monthly 20GB,6176,4.08,4.04,4,31.84,0,None,0,Medium,Night
+08031438104,Smartphone,MTN Monthly 10GB,4690,1.35,2.81,5,1.36,0,None,0,Very-High,Morning
+08039819653,Smartphone,MTN Daily 2GB,1865,11.18,4.25,0,0.0,0,None,0,Medium,All-Day
+08035137774,Smartphone,MTN Monthly 50GB,12431,3.43,1.9,3,1.11,4,"MusicPlus, Sports SMS, Comedy+, CallerTune",1800,Medium,All-Day
+08033721036,Smartphone,MTN Monthly 50GB,11486,4.38,2.56,22,0.34,4,"CallerTune, Sports SMS, MusicPlus, Comedy+",800,Very-High,Morning
+08037154070,Smartphone,MTN Monthly 10GB,5423,9.97,2.09,25,1.99,3,"CallerTune, MusicPlus, Comedy+",600,High,All-Day
+08035262104,Feature Phone,MTN Daily 2GB,1677,10.81,4.88,2,0.0,2,"Sports SMS, VideoVibe",400,Very-High,Night
+08031357126,Feature Phone,MTN Monthly 20GB,7384,1.03,1.19,3,23.75,2,"CallerTune, GameZone",400,Medium,Morning
+08031564355,Feature Phone,MTN Monthly 50GB,11313,1.12,4.99,3,21.64,0,None,0,Very-High,Morning
+08035588080,Smartphone,MTN Weekly 1GB,1003,11.03,4.46,0,0.0,0,None,0,Very-High,Evening
+08033428060,Smartphone,MTN Monthly 20GB,7662,2.53,3.03,4,16.15,4,"Daily Devotional, VideoVibe, MusicPlus, GameZone",800,High,Morning
+08037869527,Smartphone,MTN Monthly 50GB,12208,1.69,0.13,5,16.33,4,"CallerTune, Comedy+, MusicPlus, GameZone",1200,Medium,Evening
+08039339123,Feature Phone,MTN Monthly 20GB,6623,9.17,2.23,25,1.09,2,"CallerTune, VideoVibe",400,Very-High,Morning
+08031332963,Feature Phone,MTN Monthly 10GB,3991,5.71,2.18,22,0.77,0,None,0,High,Night
+08034140133,Feature Phone,MTN Daily 2GB,3141,9.44,3.17,1,0.0,4,"CallerTune, VideoVibe, Daily Devotional, Comedy+",800,High,Morning
+08033850264,Smartphone,MTN Weekly 1GB,1894,3.02,0.01,2,0.93,4,"Comedy+, Daily Devotional, GameZone, VideoVibe",800,High,All-Day
+08031593231,Feature Phone,MTN Monthly 20GB,7689,5.7,0.14,16,0.08,4,"Comedy+, VideoVibe, GameZone, Daily Devotional",800,High,Evening
+08031975297,Feature Phone,MTN Monthly 20GB,6945,2.0,3.9,5,17.83,2,"GameZone, Comedy+",900,Very-High,Morning
+08031078802,Smartphone,MTN Monthly 10GB,5128,1.39,3.64,18,1.74,2,"VideoVibe, Daily Devotional",400,Very-High,Night
+08033794741,Feature Phone,MTN Monthly 20GB,6943,2.55,2.63,1,24.98,0,None,0,Low,All-Day
+08033438412,Feature Phone,MTN Monthly 50GB,10843,3.34,3.01,1,19.96,0,None,0,Low,All-Day
+08038351212,Smartphone,MTN Monthly 50GB,11132,4.04,2.61,3,16.66,0,None,0,Low,Evening
+08039256840,Smartphone,MTN Weekly 1GB,1724,9.67,0.62,1,0.0,0,None,0,Medium,Night
+08031176502,Feature Phone,MTN Weekly 5GB,4373,4.38,1.28,1,1.69,4,"Sports SMS, Comedy+, GameZone, VideoVibe",1800,High,All-Day
+08031111676,Smartphone,MTN Monthly 50GB,12363,8.22,2.06,20,1.82,3,"Daily Devotional, VideoVibe, GameZone",1350,High,Morning
+08039675303,Smartphone,MTN Daily 2GB,1678,14.43,0.27,2,0.0,0,None,0,Very-High,Evening
+08031437817,Smartphone,MTN Daily 2GB,1620,6.96,1.27,16,0.17,1,CallerTune,450,Very-High,Night
+08033670902,Smartphone,MTN Daily 2GB,1172,8.89,4.59,2,0.0,0,None,0,Low,Evening
+08036830027,Smartphone,MTN Monthly 20GB,6610,4.72,0.2,3,20.01,4,"GameZone, Daily Devotional, MusicPlus, Sports SMS",800,Low,Evening
+08032689180,Feature Phone,MTN Daily 2GB,1420,6.57,2.82,19,0.72,1,Sports SMS,300,High,All-Day
+08032414009,Smartphone,MTN BetaTalk,2168,5.82,4.8,15,1.94,2,"Sports SMS, Comedy+",600,Medium,All-Day
+08034515089,Smartphone,MTN Monthly 50GB,11589,3.04,0.36,2,29.31,0,None,0,Medium,Morning
+08039330283,Smartphone,MTN Daily 2GB,2622,8.23,2.7,9,0.64,3,"VideoVibe, Daily Devotional, Sports SMS",600,Medium,All-Day
+08039536208,Smartphone,MTN Weekly 1GB,2622,8.74,1.81,11,1.97,2,"GameZone, VideoVibe",600,High,Evening
+08035845099,Smartphone,MTN Daily 2GB,1418,4.13,0.55,17,0.61,0,None,0,Low,All-Day
+08039690194,Smartphone,MTN Daily 2GB,1716,9.98,3.55,1,0.0,0,None,0,Medium,Morning
+08033834104,Smartphone,MTN Monthly 20GB,6617,1.83,4.02,2,13.4,0,None,0,Very-High,All-Day
+08032190109,Smartphone,MTN Weekly 1GB,1312,13.4,1.21,2,0.0,0,None,0,High,Night
+08039414806,Smartphone,MTN Monthly 20GB,6832,4.52,1.27,2,11.57,0,None,0,Medium,All-Day
+08039901139,Feature Phone,MTN Monthly 20GB,5815,3.06,1.47,3,19.02,0,None,0,High,Night
+08037624364,Feature Phone,MTN Weekly 1GB,2050,8.72,4.36,0,0.0,0,None,0,Very-High,All-Day
+08039642422,Smartphone,MTN Monthly 50GB,11800,9.85,4.39,3,1.27,0,None,0,High,All-Day
+08036825307,Smartphone,MTN Monthly 50GB,10631,0.73,3.8,1,17.08,0,None,0,High,All-Day
+08033692458,Smartphone,MTN Monthly 20GB,5820,2.43,1.48,4,34.68,1,MusicPlus,300,Medium,Night
+08032578826,Smartphone,MTN Monthly 50GB,10841,3.37,1.09,5,29.4,0,None,0,Very-High,Morning
+08038220061,Smartphone,MTN Monthly 20GB,6582,2.91,2.51,2,19.5,0,None,0,Medium,Morning
+08033929334,Smartphone,MTN Monthly 10GB,4843,8.56,3.41,21,0.76,2,"Daily Devotional, MusicPlus",400,Very-High,Morning
+08039896319,Feature Phone,MTN Weekly 5GB,4243,7.75,1.93,5,0.24,4,"VideoVibe, Comedy+, CallerTune, Sports SMS",1800,Very-High,Morning
+08031087577,Smartphone,MTN Daily 2GB,2212,8.24,2.17,19,0.01,2,"Sports SMS, VideoVibe",900,High,All-Day
+08034025000,Smartphone,MTN Monthly 20GB,6303,1.53,1.61,2,33.78,0,None,0,Medium,All-Day
+08039293142,Feature Phone,MTN Monthly 50GB,12600,6.91,4.2,2,1.8,4,"MusicPlus, Comedy+, CallerTune, VideoVibe",1800,Low,Night
+08037787198,Smartphone,MTN Daily 2GB,2050,12.59,0.64,1,0.0,0,None,0,High,Morning
+08038179097,Smartphone,MTN Weekly 1GB,4277,12.53,2.29,1,0.0,4,"GameZone, MusicPlus, Sports SMS, CallerTune",1800,High,Night
+08034647263,Feature Phone,MTN Weekly 1GB,2227,8.74,1.3,0,0.0,0,None,0,Low,Morning
+08033066599,Smartphone,MTN Daily 2GB,2117,3.04,2.12,6,1.78,0,None,0,Low,Evening
+08036005423,Smartphone,MTN Weekly 5GB,2203,3.86,4.64,13,0.6,0,None,0,Medium,All-Day
+08032629364,Smartphone,MTN Monthly 20GB,6392,2.13,2.24,5,22.62,2,"Comedy+, GameZone",600,Low,Night
+08037163694,Smartphone,MTN BetaTalk,932,8.93,3.27,9,1.61,0,None,0,High,All-Day
+08037625441,Smartphone,MTN Monthly 20GB,5826,1.4,3.3,1,29.47,0,None,0,Low,Night
+08033781892,Feature Phone,MTN Monthly 50GB,11109,3.11,1.96,5,23.52,0,None,0,Medium,Morning
+08037915410,Smartphone,MTN Monthly 50GB,11955,2.83,4.34,4,18.11,3,"Daily Devotional, Sports SMS, MusicPlus",1350,High,Morning
+08033389977,Smartphone,MTN Daily 2GB,1990,13.16,2.51,0,0.0,0,None,0,Very-High,All-Day
+08039020671,Smartphone,MTN Monthly 50GB,11414,4.87,0.4,1,31.32,0,None,0,Very-High,Night
+08039668358,Smartphone,MTN BetaTalk,3275,2.95,2.7,22,0.59,3,"CallerTune, MusicPlus, Sports SMS",1350,Low,All-Day
+08039005470,Smartphone,MTN BetaTalk,880,1.13,2.6,20,0.79,0,None,0,Low,Morning
+08033365156,Smartphone,MTN Daily 2GB,1929,14.36,4.0,0,0.0,0,None,0,Very-High,Evening
+08034453106,Smartphone,MTN Monthly 50GB,10529,1.54,2.04,2,25.97,0,None,0,Low,All-Day
+08035323768,Smartphone,MTN Monthly 50GB,12338,2.1,3.27,4,30.26,1,Sports SMS,450,Very-High,All-Day
+08033834218,Feature Phone,MTN Weekly 5GB,3001,8.32,0.02,2,0.6,1,CallerTune,200,High,Morning
+08035275432,Smartphone,MTN BetaTalk,827,3.56,3.63,5,1.95,0,None,0,High,Night
+08038162998,Smartphone,MTN Monthly 20GB,6239,8.94,2.55,15,1.52,2,"GameZone, Daily Devotional",400,Low,Evening
+08031437368,Smartphone,MTN Weekly 1GB,2463,8.2,3.39,1,0.0,0,None,0,Low,All-Day
+08032328192,Feature Phone,MTN Monthly 50GB,12285,4.59,2.3,1,0.84,1,CallerTune,450,High,All-Day
+08033800072,Smartphone,MTN Daily 2GB,3068,5.48,1.18,22,1.89,3,"GameZone, Sports SMS, MusicPlus",900,Low,Night
+08038047544,Smartphone,MTN Monthly 20GB,6498,5.81,0.26,18,1.6,0,None,0,High,Night
+08035447482,Feature Phone,MTN Weekly 1GB,1660,14.97,1.87,0,0.0,0,None,0,Medium,Evening
+08037834797,Smartphone,MTN Monthly 50GB,11140,1.83,0.31,3,33.01,0,None,0,Medium,All-Day
+08039034940,Smartphone,MTN Daily 2GB,1600,12.63,1.09,2,0.0,0,None,0,Very-High,Night
+08031150015,Feature Phone,MTN Weekly 5GB,4364,8.95,1.62,7,0.55,4,"Comedy+, Daily Devotional, CallerTune, Sports SMS",1200,Low,All-Day
+08032604673,Smartphone,MTN Monthly 50GB,10634,1.07,1.57,5,29.16,0,None,0,Very-High,All-Day
+08039436525,Smartphone,MTN BetaTalk,2043,9.71,2.56,20,1.47,1,MusicPlus,300,Medium,All-Day
+08033510621,Smartphone,MTN Weekly 5GB,3455,9.42,0.19,18,1.2,0,None,0,Very-High,Night
+08032215389,Smartphone,MTN Monthly 20GB,7441,5.39,4.8,9,0.34,2,"GameZone, Sports SMS",900,Medium,Night
+08037616248,Smartphone,MTN Monthly 50GB,11652,3.0,3.94,2,18.08,2,"VideoVibe, Daily Devotional",400,Low,Night
+08039619882,Feature Phone,MTN Weekly 1GB,2422,13.01,2.28,0,0.0,0,None,0,Low,Evening
+08038029044,Smartphone,MTN Monthly 20GB,8390,9.24,0.02,5,0.91,4,"GameZone, CallerTune, Daily Devotional, MusicPlus",1800,Low,Night
+08031199413,Smartphone,MTN Monthly 20GB,6817,1.36,4.27,3,31.63,2,"Sports SMS, VideoVibe",600,Very-High,Morning
+08033347034,Feature Phone,MTN Weekly 1GB,1065,12.73,0.05,1,0.0,0,None,0,Very-High,Night
+08034510089,Smartphone,MTN Weekly 5GB,3807,1.86,2.71,19,0.71,3,"GameZone, CallerTune, MusicPlus",600,Low,Evening
+08033086682,Smartphone,MTN Monthly 50GB,11965,2.54,4.6,2,28.39,0,None,0,Very-High,Evening
+08038392545,Feature Phone,MTN Monthly 20GB,6506,9.18,0.34,16,0.04,0,None,0,Low,All-Day
+08036810973,Feature Phone,MTN Monthly 20GB,6965,3.11,3.08,9,1.02,2,"Sports SMS, Daily Devotional",600,Low,Evening
+08034015163,Smartphone,MTN Daily 2GB,1589,6.55,4.43,14,1.45,0,None,0,High,All-Day
+08034190747,Smartphone,MTN Weekly 5GB,2523,3.28,4.5,11,1.0,1,VideoVibe,300,Medium,All-Day
+08034272864,Smartphone,MTN Daily 2GB,1504,12.63,4.87,2,0.0,0,None,0,Low,Morning
+08037649553,Smartphone,MTN Weekly 1GB,1153,9.12,3.22,0,0.0,0,None,0,Very-High,All-Day
+08034566469,Smartphone,MTN Monthly 20GB,6896,2.6,3.99,1,29.2,1,Sports SMS,450,High,All-Day
+08036296739,Smartphone,MTN Weekly 1GB,2194,10.56,4.26,0,0.0,0,None,0,Low,Night
+08037256923,Smartphone,MTN Monthly 20GB,6332,0.88,3.28,5,28.87,0,None,0,Low,Night
+08035739625,Smartphone,MTN Daily 2GB,2497,8.42,4.59,5,0.14,0,None,0,High,Evening
+08032527837,Smartphone,MTN Daily 2GB,1538,13.53,2.29,0,0.0,0,None,0,Low,Morning
+08039014039,Smartphone,MTN Daily 2GB,1255,1.59,4.26,8,1.79,0,None,0,High,Morning
+08036201045,Smartphone,MTN BetaTalk,2365,1.76,1.2,5,0.76,4,"Sports SMS, MusicPlus, GameZone, CallerTune",800,Very-High,Evening
+08034150315,Feature Phone,MTN BetaTalk,1832,6.62,4.89,8,0.26,0,None,0,High,Morning
+08034762387,Smartphone,MTN BetaTalk,1533,9.63,3.87,9,1.35,4,"CallerTune, MusicPlus, Comedy+, Daily Devotional",800,Low,Morning
+08034938351,Smartphone,MTN Weekly 1GB,2367,1.14,3.18,21,1.57,1,MusicPlus,300,High,Night
+08031288261,Smartphone,MTN Monthly 50GB,11611,3.43,1.45,5,25.76,0,None,0,Low,Morning
+08038576713,Smartphone,MTN Monthly 20GB,6473,6.41,4.95,18,0.2,0,None,0,Very-High,Evening
+08036928122,Smartphone,MTN Monthly 50GB,10675,3.99,3.78,1,28.27,0,None,0,Medium,All-Day
+08039611792,Feature Phone,MTN Monthly 20GB,6070,3.67,0.89,1,25.49,1,Sports SMS,450,Medium,Night
+08032478281,Smartphone,MTN Monthly 20GB,5998,3.78,0.75,5,13.13,0,None,0,High,All-Day
+08034093936,Smartphone,MTN Monthly 50GB,11799,6.4,2.01,12,0.18,0,None,0,Low,Evening
+08036947816,Smartphone,MTN Weekly 5GB,3186,8.75,4.22,21,0.09,1,Comedy+,300,Medium,All-Day
+08039841621,Smartphone,MTN Daily 2GB,2408,12.36,2.49,0,0.0,0,None,0,Very-High,Night
+08031641465,Smartphone,MTN Monthly 20GB,5985,3.76,1.21,1,26.35,0,None,0,High,Night
+08036182778,Smartphone,MTN Weekly 5GB,2427,4.49,2.3,25,1.77,1,CallerTune,300,High,Morning
+08037224457,Smartphone,MTN BetaTalk,1680,4.96,4.69,9,1.1,3,"Daily Devotional, MusicPlus, CallerTune",900,Low,Morning
+08032106227,Smartphone,MTN Monthly 50GB,12590,3.86,0.65,3,17.11,4,"VideoVibe, CallerTune, GameZone, MusicPlus",1200,Very-High,Night
+08036770775,Smartphone,MTN Daily 2GB,1623,9.78,3.84,1,0.0,0,None,0,Low,Morning
+08038545109,Smartphone,MTN Daily 2GB,1774,5.08,0.57,9,0.89,2,"Comedy+, CallerTune",400,Very-High,Night
+08033064804,Feature Phone,MTN Weekly 1GB,1426,13.32,2.87,1,0.0,0,None,0,Medium,Evening
+08032888617,Smartphone,MTN BetaTalk,1917,5.3,1.43,22,1.26,2,"VideoVibe, Comedy+",600,High,Morning
+08036072513,Smartphone,MTN Monthly 10GB,5342,1.21,2.46,12,1.42,3,"VideoVibe, CallerTune, Daily Devotional",1350,High,Evening
+08038890378,Smartphone,MTN Monthly 20GB,7490,1.53,3.18,2,16.98,2,"GameZone, Sports SMS",900,Very-High,All-Day
+08032549981,Smartphone,MTN Weekly 1GB,2354,5.88,0.69,2,0.29,1,Sports SMS,200,High,Evening
+08037055472,Smartphone,MTN Monthly 10GB,5120,5.99,3.95,21,1.45,4,"Daily Devotional, VideoVibe, GameZone, MusicPlus",1200,Medium,Night
+08035476083,Smartphone,MTN Daily 2GB,2778,6.77,2.94,6,1.58,4,"VideoVibe, MusicPlus, CallerTune, Sports SMS",800,Very-High,All-Day
+08037619452,Smartphone,MTN Monthly 20GB,7131,1.63,3.69,1,32.25,1,CallerTune,200,Very-High,Night
+08034932474,Feature Phone,MTN Daily 2GB,1867,2.09,3.68,8,0.01,0,None,0,High,Night
+08038602029,Smartphone,MTN Monthly 50GB,11724,4.25,2.04,4,25.37,0,None,0,Low,All-Day
+08032459878,Smartphone,MTN Daily 2GB,2129,7.37,3.23,11,0.67,2,"Daily Devotional, Comedy+",600,Low,Evening
+08037129067,Smartphone,MTN Monthly 50GB,11633,2.7,0.81,2,31.49,1,CallerTune,200,Medium,Night
+08034798427,Smartphone,MTN Weekly 5GB,2668,9.12,0.44,11,1.63,0,None,0,Very-High,Night
+08039361056,Feature Phone,MTN Monthly 20GB,5536,4.12,3.99,1,10.53,0,None,0,Medium,All-Day
+08036000673,Smartphone,MTN Weekly 1GB,2292,9.08,2.83,1,0.0,0,None,0,Low,Night
+08039592125,Smartphone,MTN Monthly 20GB,6027,0.57,4.19,1,28.7,0,None,0,High,All-Day
+08035973948,Smartphone,MTN Monthly 50GB,11590,0.62,1.61,2,29.52,0,None,0,Medium,Night
+08031755105,Smartphone,MTN Monthly 20GB,6192,2.88,1.93,5,29.86,1,Sports SMS,300,High,Morning
+08035279630,Smartphone,MTN Monthly 50GB,11241,4.94,2.12,2,22.24,0,None,0,High,Night
+08032511374,Feature Phone,MTN Daily 2GB,3654,7.08,4.35,23,1.35,3,"VideoVibe, Daily Devotional, CallerTune",1350,High,Night
+08038869219,Smartphone,MTN Daily 2GB,1426,10.4,1.32,0,0.0,0,None,0,Very-High,Evening
+08035234749,Smartphone,MTN Weekly 1GB,1237,8.98,0.79,2,0.0,0,None,0,Medium,Evening
+08031069868,Smartphone,MTN Weekly 1GB,2399,2.91,0.52,10,2.0,1,CallerTune,450,Medium,Morning
+08032667889,Smartphone,MTN Weekly 5GB,3953,9.67,0.5,9,1.03,2,"CallerTune, MusicPlus",600,Very-High,All-Day
+08037264389,Smartphone,MTN Daily 2GB,2122,9.29,3.56,2,0.0,1,CallerTune,300,Low,Morning
+08036357504,Smartphone,MTN Monthly 50GB,11319,2.21,1.57,1,19.03,0,None,0,Medium,All-Day
+08032428887,Smartphone,MTN BetaTalk,2252,6.44,2.81,1,1.4,1,CallerTune,300,Medium,Morning
+08033955343,Smartphone,MTN Monthly 50GB,10998,4.37,0.09,4,14.27,0,None,0,High,Evening
+08034782874,Feature Phone,MTN Weekly 5GB,2015,3.88,0.56,20,0.71,0,None,0,Medium,Night
+08034265379,Smartphone,MTN Monthly 50GB,11702,0.73,4.09,5,31.3,0,None,0,Medium,All-Day
+08031529102,Smartphone,MTN Daily 2GB,1444,8.84,1.16,16,1.95,1,Comedy+,200,Medium,Morning
+08035263671,Smartphone,MTN Daily 2GB,2834,6.6,2.33,24,0.29,4,"Sports SMS, CallerTune, Comedy+, VideoVibe",1800,Very-High,Night
+08036573913,Smartphone,MTN Monthly 20GB,6797,4.18,2.37,4,11.5,0,None,0,High,Evening
+08037885944,Smartphone,MTN Monthly 50GB,11592,6.02,2.68,25,0.58,1,GameZone,200,Medium,Morning
+08036511869,Feature Phone,MTN Monthly 20GB,6430,1.57,3.48,2,30.25,0,None,0,Medium,Night
+08033515141,Feature Phone,MTN Monthly 50GB,11855,2.91,2.34,3,20.39,0,None,0,Low,All-Day
+08036060108,Smartphone,MTN Daily 2GB,2037,10.16,0.11,0,0.0,2,"Sports SMS, VideoVibe",400,Medium,Evening
+08032583178,Smartphone,MTN BetaTalk,2002,2.86,3.61,4,1.51,4,"MusicPlus, Sports SMS, GameZone, VideoVibe",800,Medium,Evening
+08037013469,Smartphone,MTN Weekly 1GB,1831,6.47,4.48,13,1.04,1,VideoVibe,200,Medium,Morning
+08033523868,Smartphone,MTN Monthly 50GB,11405,2.2,1.17,3,15.06,0,None,0,High,Night
+08031839353,Feature Phone,MTN Weekly 1GB,2157,2.06,1.6,3,1.44,0,None,0,Low,Evening
+08035403173,Smartphone,MTN Monthly 20GB,6950,1.94,0.22,4,23.4,0,None,0,Low,Morning
+08038318895,Smartphone,MTN Monthly 10GB,5641,9.36,0.03,2,1.24,4,"VideoVibe, MusicPlus, Daily Devotional, CallerTune",1800,Medium,Morning
+08034058685,Smartphone,MTN Daily 2GB,2230,13.77,0.14,2,0.0,0,None,0,Medium,Evening
+08031385197,Smartphone,MTN Daily 2GB,2249,4.63,4.7,13,0.41,3,"MusicPlus, CallerTune, VideoVibe",600,Medium,Night
+08039191886,Smartphone,MTN Monthly 50GB,12729,8.45,2.78,13,0.82,3,"Sports SMS, Daily Devotional, MusicPlus",1350,Very-High,Morning
+08033570700,Smartphone,MTN Monthly 50GB,10866,0.52,2.65,2,10.21,0,None,0,Very-High,Morning
+08033601686,Smartphone,MTN Monthly 20GB,6707,9.3,3.01,16,1.61,0,None,0,High,Night
+08033874179,Smartphone,MTN Monthly 50GB,10793,3.55,2.61,2,33.03,0,None,0,Medium,All-Day
+08031475416,Smartphone,MTN Weekly 1GB,1770,9.23,4.3,18,1.76,1,Comedy+,300,Low,All-Day
+08031835347,Smartphone,MTN Daily 2GB,1783,3.8,4.11,13,0.27,3,"VideoVibe, Comedy+, CallerTune",600,Very-High,Evening
+08035927450,Smartphone,MTN Monthly 20GB,6432,3.22,4.3,24,0.83,0,None,0,Low,Evening
+08037481257,Smartphone,MTN Monthly 10GB,4840,8.27,3.98,5,1.65,0,None,0,Medium,All-Day
+08035062323,Feature Phone,MTN Monthly 50GB,10503,1.61,4.0,2,27.56,0,None,0,Very-High,All-Day
+08032751715,Smartphone,MTN Monthly 20GB,7553,8.3,1.2,25,1.63,3,"Comedy+, VideoVibe, Sports SMS",900,Very-High,Morning
+08036070361,Smartphone,MTN Weekly 1GB,1416,12.77,2.6,1,0.0,1,MusicPlus,200,Low,Night
+08039496711,Smartphone,MTN Daily 2GB,1565,1.8,1.71,10,0.65,1,CallerTune,300,Medium,Evening
+08033686847,Smartphone,MTN Weekly 5GB,2193,9.1,1.38,3,1.39,0,None,0,High,All-Day
+08032734774,Smartphone,MTN Monthly 20GB,6683,3.97,2.19,22,1.06,3,"Comedy+, Daily Devotional, CallerTune",900,Medium,Night
+08033994523,Smartphone,MTN Monthly 50GB,11835,4.29,3.7,21,0.45,2,"CallerTune, VideoVibe",400,Low,Evening
+08037330424,Smartphone,MTN Weekly 1GB,2200,12.33,4.37,2,0.0,0,None,0,Low,All-Day
+08038505290,Smartphone,MTN Weekly 1GB,1965,11.43,2.9,0,0.0,2,"Daily Devotional, CallerTune",600,Very-High,All-Day
+08033988191,Feature Phone,MTN Monthly 50GB,11315,1.14,0.41,5,21.01,0,None,0,Very-High,Morning
+08037373749,Smartphone,MTN Weekly 1GB,1721,7.48,3.54,1,1.14,0,None,0,Very-High,Evening
+08034734911,Smartphone,MTN Weekly 5GB,3561,4.36,2.66,10,0.03,3,"CallerTune, MusicPlus, Sports SMS",600,Low,Night
+08036633020,Smartphone,MTN Monthly 10GB,4412,7.69,2.84,7,0.29,1,VideoVibe,450,Very-High,All-Day
+08035042116,Smartphone,MTN Monthly 50GB,11665,7.92,2.78,2,0.08,1,Daily Devotional,300,Medium,Morning
+08037050026,Smartphone,MTN Monthly 20GB,7183,5.91,0.95,9,1.61,3,"Daily Devotional, CallerTune, Sports SMS",1350,Low,Morning
+08031221035,Smartphone,MTN Weekly 5GB,3432,6.13,1.18,22,1.88,0,None,0,Very-High,Evening
+08038962081,Smartphone,MTN Monthly 50GB,11911,1.99,4.0,5,10.98,0,None,0,Very-High,Morning
+08034876757,Smartphone,MTN Weekly 5GB,2596,3.12,0.9,7,1.33,0,None,0,Medium,Evening
+08035274806,Smartphone,MTN Weekly 1GB,2333,12.11,3.05,0,0.0,0,None,0,Very-High,Night
+08033820082,Smartphone,MTN Monthly 50GB,11193,4.67,3.92,1,21.9,2,"VideoVibe, Sports SMS",400,Medium,All-Day
+08034327122,Feature Phone,MTN BetaTalk,1384,9.42,4.33,10,0.68,0,None,0,High,Evening
+08031277116,Smartphone,MTN Weekly 5GB,3478,2.04,2.09,8,1.19,3,"Daily Devotional, Comedy+, VideoVibe",900,Low,Evening
+08037662340,Feature Phone,MTN Weekly 1GB,2160,10.18,2.21,0,0.0,0,None,0,Very-High,Evening
+08034072765,Feature Phone,MTN BetaTalk,2207,9.18,1.61,16,0.28,4,"Daily Devotional, VideoVibe, MusicPlus, GameZone",1200,Very-High,Morning
+08032018917,Smartphone,MTN Weekly 1GB,2841,2.35,2.11,19,0.31,3,"GameZone, MusicPlus, Sports SMS",600,Medium,Morning
+08036241174,Smartphone,MTN Monthly 20GB,6268,4.27,1.92,4,22.7,0,None,0,Medium,All-Day
+08036132067,Smartphone,MTN Monthly 50GB,11658,4.7,3.91,15,1.15,4,"MusicPlus, Daily Devotional, Comedy+, Sports SMS",800,Low,Morning
+08031447945,Smartphone,MTN Daily 2GB,1916,14.03,3.59,2,0.0,0,None,0,High,Evening
+08031412541,Smartphone,MTN Monthly 50GB,11364,4.33,2.74,5,18.08,0,None,0,Medium,All-Day
+08035955256,Smartphone,MTN Monthly 50GB,11868,3.29,1.64,4,1.34,3,"Sports SMS, Daily Devotional, GameZone",600,Medium,Evening
+08031806853,Smartphone,MTN BetaTalk,1289,7.57,4.08,9,1.75,0,None,0,High,Morning
+08035219759,Feature Phone,MTN Monthly 20GB,6419,4.78,0.44,2,24.74,0,None,0,Low,Morning
+08033296396,Smartphone,MTN Monthly 20GB,6542,3.31,1.25,5,15.87,1,VideoVibe,200,Very-High,All-Day
+08031014003,Feature Phone,MTN Monthly 10GB,4764,6.86,0.51,3,0.65,0,None,0,High,Night
+08036255723,Smartphone,MTN Weekly 5GB,2870,1.55,3.12,10,0.18,0,None,0,Low,Morning
+08034902202,Smartphone,MTN Monthly 20GB,6986,1.71,3.43,13,0.35,1,GameZone,300,Low,Night
+08036975594,Smartphone,MTN Daily 2GB,1825,12.94,2.15,1,0.0,0,None,0,High,All-Day
+08039479046,Smartphone,MTN Monthly 20GB,8061,3.69,4.8,1,30.89,4,"Daily Devotional, GameZone, VideoVibe, Sports SMS",1800,Low,All-Day
+08037195811,Smartphone,MTN Weekly 1GB,2061,8.69,4.03,16,0.42,0,None,0,Medium,Evening
+08039494839,Smartphone,MTN Monthly 20GB,6586,0.76,0.15,4,34.83,0,None,0,Low,Evening
+08032072811,Smartphone,MTN Monthly 20GB,6856,6.82,2.38,11,0.44,2,"CallerTune, Comedy+",400,High,All-Day
+08031514484,Smartphone,MTN Daily 2GB,1382,3.94,4.75,21,1.63,0,None,0,Low,Night
+08035049276,Smartphone,MTN BetaTalk,1656,8.89,0.14,22,1.73,0,None,0,Medium,Evening
+08035350114,Smartphone,MTN Monthly 50GB,12228,0.86,1.54,1,30.12,1,CallerTune,300,Very-High,Night
+08036651872,Smartphone,MTN Daily 2GB,2156,2.28,0.07,8,0.56,2,"Sports SMS, GameZone",400,High,Night
+08033821024,Smartphone,MTN Monthly 20GB,5687,1.13,1.53,1,26.79,0,None,0,High,Night
+08034784109,Smartphone,MTN Weekly 1GB,1594,14.24,4.27,0,0.0,0,None,0,Low,All-Day
+08037087480,Smartphone,MTN Monthly 20GB,6079,1.15,4.65,3,31.69,0,None,0,Medium,Morning
+08031987538,Smartphone,MTN Monthly 50GB,11989,4.71,2.62,4,30.83,1,VideoVibe,300,Low,Evening
+08032912376,Smartphone,MTN Weekly 1GB,1839,1.78,0.67,13,1.44,2,"VideoVibe, Sports SMS",400,Low,Evening
+08038737342,Smartphone,MTN Weekly 1GB,2048,10.64,3.49,2,0.0,3,"VideoVibe, CallerTune, GameZone",600,Medium,All-Day
+08039017103,Smartphone,MTN Monthly 20GB,6456,8.66,1.68,8,1.61,0,None,0,High,All-Day
+08031673410,Feature Phone,MTN Daily 2GB,2369,2.52,0.45,21,0.89,3,"VideoVibe, CallerTune, GameZone",1350,High,Evening
+08034611905,Smartphone,MTN Monthly 50GB,11321,1.56,0.59,4,12.64,0,None,0,Medium,All-Day
+08036639422,Smartphone,MTN Monthly 50GB,11566,1.32,0.83,2,25.76,1,GameZone,450,Medium,Morning
+08032354681,Smartphone,MTN Weekly 1GB,1554,3.1,2.54,20,1.91,1,Daily Devotional,300,High,All-Day
+08038190113,Smartphone,MTN BetaTalk,1133,6.94,1.33,18,0.91,2,"MusicPlus, GameZone",600,Low,Morning
+08039433158,Smartphone,MTN Weekly 5GB,3799,5.31,0.51,3,0.7,2,"VideoVibe, Sports SMS",600,High,All-Day
+08033271820,Smartphone,MTN Weekly 1GB,2449,1.37,3.6,4,0.71,4,"Comedy+, MusicPlus, Sports SMS, CallerTune",1200,Very-High,Morning
+08031648768,Feature Phone,MTN Monthly 20GB,5949,3.43,4.74,2,11.32,0,None,0,Medium,Night
+08033207238,Smartphone,MTN Monthly 50GB,11822,1.99,0.72,3,18.25,0,None,0,Medium,All-Day
+08039679248,Smartphone,MTN Daily 2GB,1703,4.03,0.6,10,1.53,0,None,0,High,Morning
+08033518182,Smartphone,MTN Monthly 50GB,11134,3.72,3.68,22,1.77,0,None,0,Very-High,Evening
+08035944934,Smartphone,MTN Daily 2GB,1593,9.16,4.54,14,0.47,0,None,0,Low,Morning
+08032702184,Smartphone,MTN Weekly 1GB,1781,14.06,2.35,0,0.0,0,None,0,Low,Evening
+08039702779,Smartphone,MTN Monthly 20GB,6603,8.64,2.12,15,0.11,1,Sports SMS,300,Low,All-Day
+08039441620,Smartphone,MTN BetaTalk,1044,3.94,4.39,14,0.81,1,MusicPlus,300,Medium,Morning
+08032284077,Smartphone,MTN Monthly 20GB,7171,3.28,4.13,22,0.2,4,"Daily Devotional, Sports SMS, Comedy+, CallerTune",800,Low,Evening
+08035151773,Feature Phone,MTN Daily 2GB,1269,2.48,0.6,24,0.74,0,None,0,Medium,Morning
+08037855365,Smartphone,MTN Monthly 50GB,11475,4.7,1.78,5,15.89,0,None,0,High,Morning
+08036203537,Smartphone,MTN Daily 2GB,1349,8.56,2.14,3,0.99,0,None,0,High,Evening
+08031457317,Feature Phone,MTN Weekly 1GB,2492,11.06,0.61,1,0.0,0,None,0,Low,Night
+08033818603,Smartphone,MTN Monthly 20GB,6588,1.23,3.48,4,21.57,0,None,0,Low,Morning
+08038261047,Smartphone,MTN Daily 2GB,2716,1.17,4.49,25,1.26,2,"Daily Devotional, MusicPlus",900,High,Night
+08032984275,Feature Phone,MTN Weekly 1GB,2134,9.49,1.41,18,1.64,0,None,0,Low,Morning
+08031068271,Smartphone,MTN Monthly 20GB,7710,1.79,2.81,25,0.31,4,"VideoVibe, Comedy+, Daily Devotional, GameZone",1800,High,Evening
+08034307927,Smartphone,MTN Monthly 20GB,7379,6.74,3.81,20,1.48,3,"GameZone, Sports SMS, Daily Devotional",1350,Very-High,All-Day
+08032445158,Feature Phone,MTN Weekly 5GB,2940,8.34,4.21,25,1.1,1,Sports SMS,450,Very-High,All-Day
+08036960062,Feature Phone,MTN Monthly 50GB,12778,6.14,1.71,24,1.82,2,"Daily Devotional, CallerTune",900,Medium,Morning
+08035460029,Smartphone,MTN Weekly 1GB,1883,8.91,4.97,2,0.0,0,None,0,Medium,Evening
+08034421986,Smartphone,MTN Daily 2GB,2528,9.33,3.21,8,0.89,4,"VideoVibe, GameZone, CallerTune, Comedy+",1200,Medium,Night
+08034622136,Feature Phone,MTN Monthly 50GB,10771,3.34,0.52,2,27.36,0,None,0,Low,Evening
+08036170038,Smartphone,MTN Weekly 1GB,1970,14.81,4.76,2,0.0,0,None,0,High,Morning
+08034550477,Smartphone,MTN Weekly 1GB,1650,10.38,4.9,2,0.0,0,None,0,Medium,Evening
+08034154424,Smartphone,MTN Monthly 20GB,5749,1.27,2.18,1,22.1,0,None,0,Medium,All-Day
+08039721324,Feature Phone,MTN Monthly 20GB,6478,1.38,0.99,9,0.57,4,"GameZone, MusicPlus, Comedy+, CallerTune",800,High,Night
+08032646520,Smartphone,MTN Monthly 20GB,6901,4.54,1.19,10,1.51,1,GameZone,450,High,All-Day
+08035555582,Smartphone,MTN Monthly 20GB,6463,1.95,4.98,4,29.25,2,"Sports SMS, CallerTune",600,High,All-Day
+08037980478,Feature Phone,MTN Weekly 1GB,1978,11.14,1.95,2,0.0,0,None,0,Very-High,All-Day
+08032960418,Smartphone,MTN Monthly 20GB,6423,1.3,1.19,3,21.44,0,None,0,Very-High,All-Day
+08038055062,Smartphone,MTN Monthly 50GB,10762,3.93,3.28,3,32.86,0,None,0,Very-High,Morning
+08032290734,Feature Phone,MTN Daily 2GB,2368,9.44,3.05,3,1.41,0,None,0,Medium,Morning
+08034171618,Feature Phone,MTN Monthly 50GB,11694,1.14,4.38,4,29.35,0,None,0,Medium,Night
+08039022500,Smartphone,MTN Daily 2GB,2218,8.11,3.0,2,0.0,0,None,0,High,All-Day
+08034190520,Smartphone,MTN Monthly 50GB,11664,2.37,1.76,6,0.34,2,"Comedy+, Daily Devotional",600,High,All-Day
+08034495664,Smartphone,MTN Weekly 1GB,2112,11.85,0.33,1,0.0,0,None,0,High,Evening
+08033274437,Smartphone,MTN Monthly 20GB,7000,1.49,2.52,2,1.38,3,"GameZone, Comedy+, VideoVibe",600,Low,Night
+08035962197,Smartphone,MTN Weekly 5GB,3287,9.92,1.74,6,1.12,0,None,0,Low,Evening
+08037751474,Feature Phone,MTN Daily 2GB,2307,6.38,0.53,21,1.11,4,"GameZone, Daily Devotional, VideoVibe, MusicPlus",800,High,Night
+08038056362,Smartphone,MTN Monthly 50GB,11569,2.27,4.23,1,29.11,4,"Sports SMS, Comedy+, VideoVibe, Daily Devotional",800,Medium,Night
+08031411743,Smartphone,MTN Weekly 1GB,1599,12.66,0.68,2,0.0,0,None,0,Very-High,Morning
+08031457438,Smartphone,MTN Monthly 20GB,5915,2.79,3.33,4,22.34,0,None,0,High,Evening
+08036839192,Feature Phone,MTN BetaTalk,1551,6.16,1.02,3,1.35,0,None,0,Low,Night
+08037256308,Smartphone,MTN Monthly 10GB,4765,1.17,4.93,5,0.26,2,"MusicPlus, CallerTune",400,Very-High,Night
+08036304808,Smartphone,MTN Monthly 50GB,10862,0.57,2.11,3,28.18,0,None,0,Low,Evening
+08038529729,Smartphone,MTN Monthly 20GB,6233,4.81,0.34,3,21.69,0,None,0,Low,Night
+08034823581,Smartphone,MTN Monthly 20GB,6391,0.57,4.68,1,13.37,0,None,0,Very-High,All-Day
+08037348441,Smartphone,MTN Weekly 5GB,3254,7.72,3.73,7,0.25,4,"Daily Devotional, Sports SMS, Comedy+, CallerTune",800,Medium,Night
+08037225322,Feature Phone,MTN BetaTalk,1325,6.35,2.23,16,1.7,0,None,0,Very-High,All-Day
+08037454959,Smartphone,MTN Monthly 20GB,6840,2.77,4.7,2,32.67,1,VideoVibe,450,Medium,All-Day
+08033301877,Smartphone,MTN Daily 2GB,2602,10.23,3.8,0,0.0,1,VideoVibe,200,Low,All-Day
+08034949212,Smartphone,MTN BetaTalk,1169,4.22,0.64,3,1.77,0,None,0,Low,All-Day
+08036160166,Smartphone,MTN Daily 2GB,1946,13.79,1.01,0,0.0,0,None,0,Very-High,Night
+08034141469,Smartphone,MTN Weekly 1GB,1900,9.63,3.77,4,1.83,0,None,0,Very-High,Night
+08033021513,Smartphone,MTN Monthly 50GB,11436,1.07,0.6,3,18.64,0,None,0,High,Night
+08035257950,Feature Phone,MTN Monthly 50GB,10979,3.29,0.8,2,24.83,0,None,0,Very-High,Morning
+08034409548,Smartphone,MTN Weekly 5GB,3745,5.87,3.49,10,0.61,3,"Sports SMS, GameZone, CallerTune",900,Medium,Evening
+08037182128,Smartphone,MTN Monthly 50GB,11627,0.99,3.86,1,11.84,0,None,0,Very-High,All-Day
+08034863272,Smartphone,MTN Weekly 1GB,1872,12.05,2.18,0,0.0,0,None,0,High,Evening
+08037160255,Smartphone,MTN Monthly 20GB,6429,4.79,1.49,1,10.32,0,None,0,Medium,Evening
+08033481712,Feature Phone,MTN Monthly 10GB,5450,1.56,4.34,24,0.6,2,"Sports SMS, Comedy+",900,Low,Morning
+08037576043,Smartphone,MTN Daily 2GB,1930,8.63,0.96,2,0.0,0,None,0,High,Night
+08038734348,Smartphone,MTN Monthly 20GB,6889,1.65,4.93,5,20.55,1,MusicPlus,300,Very-High,Evening
+08038816071,Smartphone,MTN Weekly 1GB,1914,13.49,0.47,2,0.0,0,None,0,Low,Night
+08038142337,Smartphone,MTN Monthly 10GB,5413,1.26,0.84,4,0.74,3,"GameZone, CallerTune, Comedy+",1350,Medium,Evening
+08037076828,Smartphone,MTN BetaTalk,1597,4.7,0.89,13,1.74,0,None,0,Medium,All-Day
+08031568024,Feature Phone,MTN Monthly 50GB,11380,4.23,3.98,5,22.93,0,None,0,Very-High,Evening
+08035419546,Smartphone,MTN BetaTalk,1287,1.44,1.16,11,1.73,1,GameZone,450,Medium,Morning
+08032102882,Smartphone,MTN Daily 2GB,1583,14.55,1.91,1,0.0,0,None,0,Medium,Night
+08038762364,Smartphone,MTN Monthly 50GB,11828,2.44,4.76,5,30.52,0,None,0,Low,Morning
+08036854108,Smartphone,MTN Weekly 1GB,1555,3.62,4.68,15,0.75,2,"Comedy+, GameZone",400,Low,Night
+08034135876,Smartphone,MTN Weekly 5GB,4799,3.45,3.12,7,0.63,3,"GameZone, MusicPlus, Comedy+",1350,Low,All-Day
+08036502245,Smartphone,MTN BetaTalk,1570,6.79,1.13,19,1.68,2,"MusicPlus, GameZone",600,Medium,Night
+08034572365,Feature Phone,MTN Monthly 20GB,6739,2.65,4.94,4,21.09,0,None,0,Very-High,All-Day
+08038867765,Smartphone,MTN Daily 2GB,1187,11.37,0.1,1,0.0,0,None,0,Medium,Morning
+08037770461,Smartphone,MTN Monthly 10GB,3606,6.85,0.75,25,1.05,0,None,0,Very-High,Night
+08037180311,Smartphone,MTN Weekly 1GB,1357,13.08,0.75,1,0.0,0,None,0,Medium,Evening
+08033499304,Smartphone,MTN Weekly 1GB,2008,8.56,3.5,3,0.81,0,None,0,Low,Evening
+08038076532,Smartphone,MTN BetaTalk,1396,7.79,0.75,21,1.27,0,None,0,Low,All-Day
+08032490233,Smartphone,MTN Monthly 20GB,6132,3.5,2.88,1,21.51,0,None,0,Very-High,Night
+08038152952,Smartphone,MTN Weekly 1GB,2758,14.78,1.66,1,0.0,4,"MusicPlus, Sports SMS, GameZone, VideoVibe",800,Very-High,Morning
+08036095762,Feature Phone,MTN Daily 2GB,3135,8.83,0.06,2,0.0,4,"Sports SMS, VideoVibe, Daily Devotional, MusicPlus",1200,Low,Evening
+08038633546,Smartphone,MTN Monthly 20GB,6109,0.84,2.0,4,22.54,0,None,0,Low,Night
+08035159801,Smartphone,MTN Weekly 5GB,4384,4.09,2.68,17,0.52,4,"CallerTune, Sports SMS, Comedy+, MusicPlus",1200,Low,Evening
+08033935494,Smartphone,MTN BetaTalk,1499,2.57,4.92,13,0.59,2,"GameZone, MusicPlus",900,Low,All-Day
+08037016677,Smartphone,MTN BetaTalk,2479,2.16,2.11,12,1.56,4,"Daily Devotional, MusicPlus, CallerTune, GameZone",1800,Very-High,Night
+08037599319,Smartphone,MTN Monthly 20GB,6783,0.83,3.0,1,29.03,0,None,0,Very-High,Morning
+08034529112,Smartphone,MTN Monthly 20GB,6951,2.91,2.47,4,23.99,0,None,0,Very-High,Morning
+08038764208,Smartphone,MTN BetaTalk,1672,4.54,3.74,5,1.02,0,None,0,High,All-Day
+08031575909,Smartphone,MTN Weekly 1GB,2466,12.6,3.84,0,0.0,0,None,0,Low,Evening
+08032891732,Feature Phone,MTN Daily 2GB,3299,8.12,2.91,23,0.03,3,"GameZone, VideoVibe, Daily Devotional",1350,Very-High,All-Day
+08033886392,Feature Phone,MTN Monthly 20GB,6647,5.04,2.44,18,1.92,2,"VideoVibe, GameZone",400,Very-High,Morning
+08034348976,Smartphone,MTN Daily 2GB,3873,9.65,2.61,18,1.64,4,"VideoVibe, Comedy+, GameZone, CallerTune",1800,Medium,All-Day
+08034308338,Feature Phone,MTN Monthly 20GB,7563,3.27,3.95,1,15.35,4,"MusicPlus, VideoVibe, CallerTune, Sports SMS",1200,Low,Night
+08032456818,Smartphone,MTN Weekly 1GB,2705,13.84,4.06,1,0.0,3,"Sports SMS, GameZone, MusicPlus",1350,Very-High,Evening
+08035423755,Smartphone,MTN Monthly 50GB,12020,4.26,3.55,4,15.37,1,Daily Devotional,450,Medium,All-Day
+08039678133,Smartphone,MTN Monthly 20GB,7187,6.14,0.16,23,1.14,2,"VideoVibe, Comedy+",600,High,Evening
+08036695754,Smartphone,MTN Monthly 20GB,8200,8.03,0.33,1,1.57,3,"Sports SMS, MusicPlus, CallerTune",1350,Very-High,Night
+08039653336,Smartphone,MTN Weekly 1GB,2585,11.58,4.19,2,0.0,3,"GameZone, Comedy+, Sports SMS",900,High,Morning
+08035182801,Feature Phone,MTN Monthly 50GB,12165,4.92,2.58,2,22.57,2,"CallerTune, Sports SMS",400,Very-High,Night
+08035578750,Smartphone,MTN Monthly 20GB,6217,1.27,1.47,1,27.12,0,None,0,Low,Morning
+08035477851,Feature Phone,MTN BetaTalk,2047,2.05,1.75,19,0.72,2,"CallerTune, GameZone",900,Medium,Morning
+08038768490,Feature Phone,MTN Monthly 20GB,7543,1.36,3.34,3,25.09,4,"VideoVibe, Sports SMS, Daily Devotional, MusicPlus",1200,Low,Morning
+08034124920,Smartphone,MTN Monthly 20GB,5564,3.3,4.55,3,19.06,0,None,0,Very-High,All-Day
+08032416037,Smartphone,MTN Monthly 50GB,12710,3.77,2.32,3,18.38,3,"GameZone, Sports SMS, MusicPlus",900,High,Morning
+08034497296,Smartphone,MTN Monthly 20GB,6414,1.08,1.28,4,17.52,0,None,0,Very-High,Evening
+08031394350,Smartphone,MTN Weekly 1GB,2681,7.85,3.96,14,1.21,1,VideoVibe,300,High,All-Day
+08036555223,Smartphone,MTN Monthly 20GB,6602,5.76,2.66,6,0.32,0,None,0,Medium,Evening
+08036753488,Feature Phone,MTN Monthly 50GB,13231,2.17,4.57,5,17.78,4,"VideoVibe, Sports SMS, CallerTune, MusicPlus",1800,Low,All-Day
+08032152375,Feature Phone,MTN Monthly 20GB,6601,4.12,0.13,1,33.49,0,None,0,Very-High,All-Day
+08038516729,Smartphone,MTN Weekly 1GB,1899,14.77,2.26,2,0.0,0,None,0,Medium,All-Day
+08036924820,Smartphone,MTN Weekly 1GB,1811,5.72,0.73,15,0.15,0,None,0,High,Night
+08032338852,Smartphone,MTN Daily 2GB,1759,9.06,0.7,1,0.0,0,None,0,Low,All-Day
+08035576222,Smartphone,MTN BetaTalk,987,5.03,3.79,6,1.29,0,None,0,High,Night
+08039607768,Smartphone,MTN Daily 2GB,1088,14.23,4.54,0,0.0,0,None,0,Medium,Morning
+08036196871,Smartphone,MTN Weekly 1GB,3690,5.23,4.2,18,1.25,4,"CallerTune, Sports SMS, Daily Devotional, GameZone",1800,High,Evening
+08035516835,Smartphone,MTN BetaTalk,1540,6.92,4.06,13,0.3,0,None,0,Very-High,Night
+08033829410,Smartphone,MTN Daily 2GB,2249,11.95,1.82,1,0.0,0,None,0,Medium,All-Day
+08036605674,Smartphone,MTN Monthly 50GB,11188,1.81,1.77,22,1.9,0,None,0,Medium,Evening
+08033729591,Smartphone,MTN Monthly 50GB,11404,8.58,3.13,1,1.97,0,None,0,High,All-Day
+08032414368,Smartphone,MTN Daily 2GB,1295,14.99,3.82,1,0.0,0,None,0,Medium,Night
+08036692686,Smartphone,MTN Weekly 1GB,3079,3.7,3.43,18,1.09,3,"Comedy+, Daily Devotional, MusicPlus",900,Low,Evening
+08036414207,Smartphone,MTN Monthly 50GB,11333,2.68,0.24,9,0.51,0,None,0,Medium,Night
+08037790385,Smartphone,MTN Weekly 1GB,1034,9.17,2.78,9,1.97,0,None,0,Medium,Evening
+08032498823,Smartphone,MTN Monthly 20GB,6673,7.62,0.02,15,1.86,0,None,0,High,Night
+08034531520,Smartphone,MTN Weekly 1GB,1237,13.96,4.42,0,0.0,0,None,0,High,Evening
+08031418969,Smartphone,MTN Daily 2GB,2067,13.76,1.46,1,0.0,0,None,0,Low,Morning
+08032012301,Smartphone,MTN Weekly 1GB,1047,7.13,0.7,24,1.47,0,None,0,Very-High,Evening
+08033652858,Smartphone,MTN Daily 2GB,1939,7.53,3.49,1,1.77,0,None,0,Low,Evening
+08035460809,Feature Phone,MTN Daily 2GB,1983,8.84,0.83,2,0.0,0,None,0,Very-High,Morning
+08039300272,Smartphone,MTN Weekly 1GB,2834,8.96,1.48,1,1.24,4,"Sports SMS, MusicPlus, CallerTune, GameZone",1800,High,Night
+08037559801,Feature Phone,MTN Monthly 50GB,11829,1.59,1.1,3,12.33,1,Sports SMS,450,Medium,Evening
+08038968759,Feature Phone,MTN Weekly 1GB,2197,8.74,2.38,2,0.0,0,None,0,Low,Evening
+08031209181,Smartphone,MTN Weekly 1GB,1891,14.17,0.62,2,0.0,1,CallerTune,450,Low,All-Day
+08037609871,Smartphone,MTN Daily 2GB,1033,13.83,1.06,0,0.0,0,None,0,Low,Morning
+08037219627,Smartphone,MTN Monthly 20GB,6939,5.3,3.9,19,1.6,3,"Sports SMS, GameZone, VideoVibe",900,Medium,Morning
+08031996273,Smartphone,MTN Monthly 50GB,11793,6.29,1.24,16,1.45,2,"Sports SMS, GameZone",900,Very-High,Night
+08037238942,Feature Phone,MTN Monthly 20GB,7748,2.4,4.33,1,20.67,3,"Sports SMS, GameZone, MusicPlus",900,High,Morning
+08038865685,Smartphone,MTN Weekly 1GB,2899,1.16,2.2,1,1.28,3,"Daily Devotional, VideoVibe, Comedy+",600,High,Night
+08037693361,Feature Phone,MTN Monthly 50GB,12126,1.59,3.41,3,11.93,3,"Comedy+, CallerTune, MusicPlus",1350,Very-High,Evening
+08031610834,Smartphone,MTN Monthly 20GB,6539,0.8,3.99,4,32.93,0,None,0,Medium,Night
+08032451742,Smartphone,MTN Weekly 5GB,4096,9.83,0.09,11,1.18,3,"VideoVibe, Daily Devotional, MusicPlus",1350,Medium,All-Day
+08032587382,Smartphone,MTN Monthly 20GB,6784,6.62,4.32,13,1.39,0,None,0,Medium,Morning
+08033996842,Smartphone,MTN Monthly 20GB,8762,2.84,3.9,1,33.54,4,"Daily Devotional, MusicPlus, GameZone, VideoVibe",1800,High,Evening
+08034513545,Smartphone,MTN Weekly 1GB,1952,13.86,2.84,0,0.0,0,None,0,High,Night
+08031007482,Smartphone,MTN Monthly 20GB,6574,6.17,3.01,8,0.96,2,"CallerTune, GameZone",600,Low,All-Day
+08031543455,Smartphone,MTN Daily 2GB,1951,9.98,1.39,1,0.0,0,None,0,High,Morning
+08032470679,Smartphone,MTN Monthly 20GB,5898,0.64,1.01,5,12.39,0,None,0,High,Night
+08031087959,Feature Phone,MTN Weekly 1GB,1271,10.49,4.18,0,0.0,0,None,0,High,All-Day
+08037186087,Smartphone,MTN Weekly 1GB,3072,5.76,2.29,15,1.86,4,"GameZone, Sports SMS, Daily Devotional, CallerTune",1200,Very-High,Evening
+08034716685,Smartphone,MTN Monthly 50GB,11362,3.25,2.7,5,16.5,0,None,0,Medium,Morning
+08039124470,Feature Phone,MTN BetaTalk,1746,2.5,4.12,2,1.52,0,None,0,Medium,Morning
+08039282482,Smartphone,MTN Monthly 10GB,3981,6.46,4.87,1,1.11,1,GameZone,300,Low,Morning
+08034404870,Smartphone,MTN Monthly 20GB,6787,3.54,0.2,5,29.34,0,None,0,Medium,All-Day
+08036731646,Smartphone,MTN Monthly 20GB,6537,7.5,1.21,12,1.65,2,"Comedy+, GameZone",600,Low,Night
+08038502304,Feature Phone,MTN BetaTalk,1058,8.5,0.5,10,1.65,0,None,0,Medium,All-Day
+08037286032,Feature Phone,MTN Weekly 1GB,1074,6.04,4.3,13,1.83,0,None,0,High,Morning
+08033958623,Smartphone,MTN Daily 2GB,2052,10.01,3.52,1,0.0,1,MusicPlus,450,Medium,Morning
+08039821996,Feature Phone,MTN Monthly 10GB,4870,9.56,4.48,23,0.85,0,None,0,Very-High,Night
+08031053712,Feature Phone,MTN Monthly 50GB,11392,2.01,2.62,1,21.64,1,Comedy+,200,Medium,Night
+08034000156,Smartphone,MTN Monthly 20GB,6045,4.23,3.11,24,0.59,0,None,0,Medium,Morning
+08032463208,Smartphone,MTN Monthly 50GB,12644,6.65,2.09,12,1.68,3,"GameZone, Comedy+, Sports SMS",1350,Very-High,Morning
+08032187647,Feature Phone,MTN Monthly 50GB,11247,6.22,4.34,19,1.41,0,None,0,High,Evening
+08031806091,Feature Phone,MTN Weekly 1GB,3135,14.01,1.42,0,0.0,4,"VideoVibe, CallerTune, Daily Devotional, MusicPlus",1200,High,All-Day
+08033459228,Smartphone,MTN Monthly 50GB,12302,2.37,4.07,3,12.72,4,"Sports SMS, MusicPlus, Comedy+, CallerTune",1800,Very-High,Morning
+08031654500,Smartphone,MTN Monthly 10GB,5210,9.63,0.61,20,0.95,2,"Daily Devotional, Sports SMS",400,High,Evening
+08031762272,Smartphone,MTN Daily 2GB,2178,12.07,2.56,2,0.0,0,None,0,High,Morning
+08037722962,Feature Phone,MTN Monthly 50GB,12842,1.36,2.76,16,0.91,4,"Sports SMS, Daily Devotional, Comedy+, MusicPlus",1800,Medium,Night
+08037187917,Smartphone,MTN Monthly 50GB,11866,8.32,1.17,23,0.36,0,None,0,Medium,Night
+08032527754,Smartphone,MTN Weekly 1GB,2382,12.51,0.08,0,0.0,0,None,0,Very-High,All-Day
+08036230354,Smartphone,MTN Monthly 50GB,11297,1.6,0.3,4,27.27,1,GameZone,200,Very-High,All-Day
+08037654706,Smartphone,MTN Weekly 1GB,2927,13.67,4.4,2,0.0,2,"GameZone, Daily Devotional",600,Very-High,Morning
+08039911553,Smartphone,MTN Weekly 1GB,3159,9.08,0.33,1,0.0,2,"Comedy+, CallerTune",900,Low,Evening
+08032877520,Smartphone,MTN Monthly 20GB,6917,6.7,3.81,4,1.83,0,None,0,Low,Morning
+08039890907,Feature Phone,MTN Weekly 1GB,1407,12.05,0.23,2,0.0,0,None,0,Medium,Morning
+08036875458,Smartphone,MTN Daily 2GB,1833,6.06,0.94,1,0.23,0,None,0,High,All-Day
+08033835639,Feature Phone,MTN Weekly 5GB,3849,1.05,0.59,16,1.6,4,"CallerTune, Sports SMS, MusicPlus, VideoVibe",800,High,Night
+08033513587,Smartphone,MTN Monthly 50GB,11757,4.51,1.97,11,0.92,0,None,0,Medium,Evening
+08031465209,Feature Phone,MTN Weekly 5GB,3468,1.68,0.36,8,0.67,4,"Comedy+, GameZone, Daily Devotional, VideoVibe",1200,Low,All-Day
+08033992885,Smartphone,MTN Monthly 50GB,11752,5.3,3.27,12,1.89,0,None,0,Low,Night
+08037313006,Smartphone,MTN Monthly 10GB,3919,8.77,4.75,13,1.29,0,None,0,Medium,All-Day
+08037170099,Smartphone,MTN Daily 2GB,3334,6.88,4.83,23,1.25,4,"CallerTune, Daily Devotional, MusicPlus, GameZone",1800,High,All-Day
+08032141374,Smartphone,MTN Weekly 1GB,2836,3.6,3.38,9,1.58,2,"Daily Devotional, MusicPlus",900,Medium,All-Day
+08034037902,Smartphone,MTN Monthly 50GB,11699,7.46,0.78,2,0.66,0,None,0,Very-High,Evening
+08036913753,Feature Phone,MTN Monthly 20GB,7360,8.65,1.97,11,0.86,2,"MusicPlus, Comedy+",600,High,Night
+08036475830,Smartphone,MTN Monthly 50GB,11260,3.45,3.61,8,0.08,1,Comedy+,450,Medium,Morning
+08036643145,Smartphone,MTN Weekly 1GB,2372,6.01,4.19,14,1.24,1,GameZone,450,Very-High,Evening
+08039967178,Smartphone,MTN Monthly 50GB,11391,4.21,2.04,2,16.41,0,None,0,High,Evening
+08032094706,Smartphone,MTN Monthly 50GB,10869,1.8,1.7,5,19.32,0,None,0,Medium,Evening
+08035060905,Smartphone,MTN Monthly 50GB,11901,1.74,1.3,5,21.45,0,None,0,High,Night
+08039486425,Smartphone,MTN Weekly 5GB,3756,9.82,3.91,10,1.63,2,"VideoVibe, MusicPlus",600,High,Night
+08036349250,Smartphone,MTN Daily 2GB,1348,6.94,3.49,24,0.04,0,None,0,Very-High,Evening
+08037025242,Feature Phone,MTN Monthly 50GB,12046,4.95,2.28,3,15.0,1,Daily Devotional,300,Medium,Night
+08036229495,Smartphone,MTN Daily 2GB,2143,2.08,0.92,10,1.51,1,Daily Devotional,450,Very-High,Morning
+08036235093,Feature Phone,MTN Monthly 50GB,12186,8.1,4.47,9,0.42,3,"MusicPlus, Daily Devotional, GameZone",1350,Very-High,Night
+08035550731,Smartphone,MTN Monthly 50GB,11973,3.39,0.75,2,31.73,0,None,0,Very-High,All-Day
+08037103946,Smartphone,MTN Monthly 50GB,10630,0.82,2.21,5,22.29,0,None,0,Very-High,All-Day
+08032230114,Smartphone,MTN BetaTalk,1198,9.53,3.2,4,0.66,2,"Comedy+, MusicPlus",600,High,Morning
+08031833946,Smartphone,MTN Daily 2GB,1056,10.25,2.81,2,0.0,0,None,0,High,Night
+08036884827,Feature Phone,MTN Weekly 5GB,3936,9.2,3.71,2,0.87,3,"Sports SMS, CallerTune, Daily Devotional",900,Very-High,Evening
+08032728736,Smartphone,MTN Weekly 1GB,2473,10.5,0.47,0,0.0,0,None,0,Very-High,Morning
+08031441171,Smartphone,MTN Monthly 50GB,12438,1.85,4.83,3,27.41,3,"MusicPlus, CallerTune, Sports SMS",900,High,Evening
+08039317574,Smartphone,MTN Monthly 50GB,11814,5.66,1.31,6,0.19,0,None,0,High,Night
+08037952319,Smartphone,MTN Weekly 5GB,3890,2.74,2.95,15,0.66,3,"MusicPlus, Comedy+, GameZone",1350,Low,Evening
+08038912124,Feature Phone,MTN Monthly 10GB,5168,7.24,2.83,16,1.5,3,"Comedy+, VideoVibe, Daily Devotional",900,Medium,Evening
+08035431843,Smartphone,MTN Monthly 50GB,11893,1.2,4.81,5,30.07,0,None,0,Very-High,Night
+08033094205,Smartphone,MTN Daily 2GB,2679,3.77,2.69,20,0.6,3,"CallerTune, Comedy+, GameZone",600,High,All-Day
+08033464473,Smartphone,MTN Daily 2GB,2167,14.45,1.52,1,0.0,0,None,0,Very-High,Morning
+08036343758,Smartphone,MTN Monthly 50GB,10582,4.9,1.49,1,21.39,0,None,0,High,Morning
+08036516783,Smartphone,MTN BetaTalk,2528,4.5,2.86,10,0.94,2,"VideoVibe, Comedy+",600,Low,Evening
+08032062227,Smartphone,MTN Monthly 20GB,5540,0.63,1.3,3,13.1,0,None,0,Medium,All-Day
+08035667626,Smartphone,MTN Monthly 50GB,11628,1.88,4.48,4,15.76,0,None,0,High,Evening
+08038774909,Smartphone,MTN Monthly 50GB,11122,4.73,1.12,3,26.88,0,None,0,Medium,All-Day
+08033041378,Smartphone,MTN Monthly 10GB,5441,2.49,3.93,21,1.41,2,"CallerTune, Comedy+",600,Low,Evening
+08033914152,Smartphone,MTN Monthly 50GB,11712,1.46,2.26,25,1.66,0,None,0,Very-High,All-Day
+08038228719,Smartphone,MTN Monthly 20GB,6664,2.16,0.69,1,15.91,3,"VideoVibe, CallerTune, Sports SMS",600,Medium,All-Day
+08039824210,Smartphone,MTN Monthly 50GB,11912,4.91,3.45,24,1.88,0,None,0,Medium,Night
+08034315011,Smartphone,MTN Weekly 5GB,3120,8.89,2.66,25,0.08,1,MusicPlus,450,Medium,Evening
+08033134345,Smartphone,MTN Weekly 1GB,2191,4.24,3.48,10,1.69,3,"VideoVibe, MusicPlus, Sports SMS",900,Medium,Evening
+08036469673,Smartphone,MTN Weekly 5GB,3164,5.65,0.83,11,1.27,4,"CallerTune, VideoVibe, Sports SMS, GameZone",800,Low,Evening
+08038400255,Smartphone,MTN Weekly 5GB,3996,5.15,1.2,16,1.75,2,"MusicPlus, CallerTune",600,Low,Night
+08031072436,Smartphone,MTN Monthly 20GB,5908,3.5,4.14,3,25.01,0,None,0,Very-High,Evening
+08034164968,Smartphone,MTN Weekly 1GB,2251,7.03,0.86,9,1.63,1,GameZone,450,Medium,Night
+08035611715,Smartphone,MTN Monthly 50GB,12671,6.23,1.34,7,1.8,4,"GameZone, Sports SMS, CallerTune, VideoVibe",1800,High,Morning
+08034972475,Smartphone,MTN Monthly 50GB,11066,2.08,3.83,4,19.33,0,None,0,Very-High,Morning
+08035615738,Smartphone,MTN Monthly 20GB,7359,0.93,0.73,3,13.36,2,"CallerTune, GameZone",400,Medium,All-Day
+08039491757,Smartphone,MTN Monthly 20GB,6698,5.2,1.09,23,1.86,1,VideoVibe,200,High,All-Day
+08034310267,Smartphone,MTN Daily 2GB,2362,9.97,2.52,1,0.0,0,None,0,High,Night
+08039562656,Feature Phone,MTN Monthly 10GB,4631,2.37,4.65,9,0.16,1,GameZone,300,Medium,Morning
+08039183442,Smartphone,MTN Weekly 1GB,2140,2.16,1.96,1,0.3,4,"MusicPlus, Daily Devotional, Sports SMS, CallerTune",800,High,Morning
+08031429583,Smartphone,MTN Monthly 20GB,6518,2.82,4.09,1,0.09,2,"GameZone, Daily Devotional",600,Low,Morning
+08035772784,Feature Phone,MTN Monthly 20GB,6832,7.51,4.32,22,0.41,4,"VideoVibe, GameZone, Comedy+, MusicPlus",1200,Medium,All-Day
+08038624107,Feature Phone,MTN Daily 2GB,1879,13.68,4.99,0,0.0,0,None,0,Very-High,Evening
+08037934817,Feature Phone,MTN Monthly 50GB,11319,3.29,4.24,3,30.63,3,"CallerTune, Daily Devotional, Sports SMS",600,Very-High,Morning
+08036355694,Feature Phone,MTN Monthly 20GB,5698,4.68,2.33,2,13.21,0,None,0,High,Night
+08033166186,Smartphone,MTN Weekly 1GB,1684,9.15,2.38,0,0.0,0,None,0,Very-High,Night
+08035974026,Smartphone,MTN Monthly 50GB,11594,0.57,1.12,4,20.93,0,None,0,High,Night
+08032443643,Feature Phone,MTN Monthly 50GB,10537,3.62,3.9,1,31.03,0,None,0,Medium,All-Day
+08031416475,Smartphone,MTN Daily 2GB,2574,11.76,2.54,0,0.0,2,"CallerTune, MusicPlus",400,Medium,Night
+08038917188,Smartphone,MTN BetaTalk,971,5.01,4.12,6,0.92,0,None,0,High,Evening
+08034658446,Smartphone,MTN Monthly 50GB,10682,2.15,0.63,4,30.73,0,None,0,Medium,All-Day
+08039212709,Smartphone,MTN Weekly 5GB,2747,8.31,0.54,1,0.82,1,VideoVibe,450,High,All-Day
+08037358050,Smartphone,MTN Daily 2GB,2979,9.51,0.1,1,0.0,4,"Sports SMS, Comedy+, CallerTune, GameZone",1800,Very-High,Evening
+08034028697,Smartphone,MTN Daily 2GB,1099,9.37,3.52,13,1.03,0,None,0,Very-High,Evening
+08037770130,Smartphone,MTN Monthly 20GB,5579,9.45,4.03,17,0.13,0,None,0,High,All-Day
+08038610907,Smartphone,MTN Daily 2GB,1777,8.69,0.51,0,0.0,0,None,0,High,Morning
+08034430445,Smartphone,MTN Monthly 50GB,11953,0.67,1.72,3,20.16,0,None,0,Very-High,Morning
+08038620026,Feature Phone,MTN Weekly 1GB,1546,4.72,3.3,25,1.39,0,None,0,Medium,All-Day
+08036493235,Feature Phone,MTN Monthly 20GB,5737,4.06,1.25,3,23.15,0,None,0,Medium,Evening
+08035009617,Smartphone,MTN Weekly 1GB,3609,2.43,0.25,23,0.79,4,"CallerTune, VideoVibe, Daily Devotional, GameZone",1200,Low,All-Day
+08037443106,Smartphone,MTN Monthly 20GB,6639,1.08,3.43,1,25.7,0,None,0,Medium,All-Day
+08037996508,Smartphone,MTN Daily 2GB,2031,12.03,3.95,1,0.0,0,None,0,Medium,All-Day
+08039999957,Feature Phone,MTN Monthly 50GB,11408,3.27,1.28,1,14.68,0,None,0,Low,Night
+08038974305,Smartphone,MTN Weekly 1GB,3452,3.16,0.63,11,0.08,4,"VideoVibe, Comedy+, GameZone, Daily Devotional",1800,Very-High,Evening
+08033835323,Smartphone,MTN Daily 2GB,1001,7.3,4.44,9,1.99,0,None,0,Very-High,Morning
+08031907044,Smartphone,MTN Daily 2GB,1930,9.85,2.91,2,0.0,0,None,0,Medium,Morning
+08036441849,Smartphone,MTN Weekly 5GB,2137,8.71,1.68,21,0.7,0,None,0,High,All-Day
+08032690882,Smartphone,MTN Daily 2GB,2799,14.33,4.49,1,0.0,2,"MusicPlus, CallerTune",400,High,Evening
+08039162994,Smartphone,MTN BetaTalk,1510,1.0,4.37,23,0.75,2,"MusicPlus, Daily Devotional",900,High,Evening
+08034497739,Smartphone,MTN BetaTalk,1207,7.78,4.42,25,1.43,0,None,0,Medium,Evening
+08032786868,Smartphone,MTN BetaTalk,521,3.81,4.23,5,1.27,0,None,0,High,All-Day
+08035428770,Smartphone,MTN Daily 2GB,1003,15.0,2.68,1,0.0,0,None,0,High,Evening
+08037895214,Feature Phone,MTN Monthly 50GB,11708,2.52,2.26,5,18.2,0,None,0,Very-High,All-Day
+08031914874,Smartphone,MTN Monthly 20GB,6712,4.6,2.0,3,23.67,0,None,0,Medium,Morning
+08034519695,Smartphone,MTN Weekly 5GB,3465,6.03,4.8,6,0.68,0,None,0,Low,Evening
+08036743709,Smartphone,MTN Monthly 20GB,6267,1.73,4.73,2,31.01,0,None,0,High,Evening
+08032840620,Smartphone,MTN Daily 2GB,1034,2.95,4.18,13,0.1,0,None,0,Medium,All-Day
+08033810137,Smartphone,MTN Weekly 1GB,2779,9.01,1.29,9,1.23,2,"GameZone, Comedy+",400,Medium,Morning
+08034437701,Smartphone,MTN Daily 2GB,1596,14.96,0.05,1,0.0,0,None,0,Very-High,Evening
+08037062782,Smartphone,MTN Monthly 50GB,10704,1.27,0.25,1,33.08,0,None,0,Low,Evening
+08035873538,Feature Phone,MTN Monthly 50GB,11711,1.23,1.47,2,34.12,0,None,0,Low,Evening
+08039146630,Feature Phone,MTN Daily 2GB,2376,9.71,2.43,0,0.0,4,"Comedy+, CallerTune, GameZone, MusicPlus",800,High,Night
+08036213538,Smartphone,MTN Monthly 20GB,7003,3.95,1.49,1,18.66,2,"Daily Devotional, VideoVibe",600,Medium,Morning
+08038446611,Smartphone,MTN Monthly 20GB,5651,4.83,1.12,3,21.07,0,None,0,Very-High,All-Day
+08031785236,Smartphone,MTN Monthly 20GB,7432,4.48,2.7,13,1.48,1,Comedy+,450,High,Evening
+08036177037,Smartphone,MTN Monthly 20GB,7550,2.29,2.61,3,21.74,2,"Comedy+, VideoVibe",900,Low,All-Day
+08032112917,Smartphone,MTN Weekly 1GB,1955,9.23,4.99,22,1.64,4,"Sports SMS, CallerTune, Comedy+, VideoVibe",800,High,Evening
+08033357987,Smartphone,MTN Daily 2GB,1580,13.54,3.24,0,0.0,1,Sports SMS,300,Medium,Night
+08035635369,Smartphone,MTN Daily 2GB,2206,11.15,3.45,2,0.0,0,None,0,Low,Evening
+08034066053,Smartphone,MTN Daily 2GB,2076,11.1,3.0,1,0.0,0,None,0,Very-High,All-Day
+08034652038,Smartphone,MTN Monthly 20GB,6088,8.14,3.04,23,0.43,0,None,0,Low,Morning
+08032835818,Smartphone,MTN Weekly 5GB,4015,7.88,0.41,6,0.97,2,"CallerTune, Comedy+",600,Medium,Morning
+08038312731,Feature Phone,MTN Monthly 20GB,6432,2.46,4.77,2,22.43,0,None,0,High,All-Day
+08032838838,Smartphone,MTN Monthly 50GB,11590,8.2,2.46,13,0.39,1,Sports SMS,200,High,Morning
+08038531155,Feature Phone,MTN Monthly 20GB,8074,4.45,2.39,4,20.03,4,"MusicPlus, Sports SMS, GameZone, Daily Devotional",1200,Medium,All-Day
+08033726291,Smartphone,MTN Monthly 50GB,12588,0.6,4.53,1,34.9,2,"Comedy+, GameZone",600,Medium,Morning
+08032186383,Feature Phone,MTN Weekly 5GB,3558,5.38,0.18,17,1.46,3,"Comedy+, GameZone, Sports SMS",900,Medium,All-Day
+08031368565,Smartphone,MTN Monthly 10GB,6123,4.68,2.08,16,0.78,3,"MusicPlus, VideoVibe, Sports SMS",1350,Low,All-Day
+08038605266,Feature Phone,MTN BetaTalk,2168,3.51,2.02,5,0.87,1,Sports SMS,200,Very-High,Night
+08032698794,Feature Phone,MTN Weekly 1GB,2500,1.6,3.48,15,0.53,0,None,0,Medium,Morning
+08037412784,Feature Phone,MTN Monthly 50GB,11814,0.87,4.53,1,10.67,0,None,0,Medium,Night
+08032659760,Smartphone,MTN Weekly 1GB,1741,10.69,2.33,0,0.0,0,None,0,Very-High,Evening
+08032781404,Smartphone,MTN Monthly 10GB,4652,5.57,3.82,21,1.38,0,None,0,Very-High,All-Day
+08037001821,Smartphone,MTN BetaTalk,1278,5.67,4.25,12,1.75,1,MusicPlus,300,Very-High,Night
+08033757504,Smartphone,MTN Weekly 1GB,2896,6.51,2.56,8,1.33,4,"CallerTune, Comedy+, Daily Devotional, GameZone",1200,Medium,All-Day
+08034875109,Smartphone,MTN Monthly 50GB,10507,0.93,4.62,3,24.59,0,None,0,Low,Evening
+08034356710,Smartphone,MTN BetaTalk,713,7.91,0.09,2,0.55,0,None,0,Low,Evening
+08037014801,Smartphone,MTN Monthly 50GB,11512,4.61,2.15,4,33.48,0,None,0,Low,Morning
+08036529502,Smartphone,MTN Daily 2GB,2157,5.74,3.44,16,0.26,0,None,0,Low,Evening
+08033000703,Smartphone,MTN Daily 2GB,2150,6.8,1.41,24,1.85,2,"GameZone, Comedy+",900,Low,All-Day
+08039462606,Smartphone,MTN Weekly 1GB,1575,12.25,3.57,2,0.0,2,"GameZone, Comedy+",400,Low,All-Day
+08033997022,Smartphone,MTN Daily 2GB,2233,11.15,1.92,1,0.0,0,None,0,Medium,Evening
+08032074262,Smartphone,MTN Daily 2GB,3969,4.81,4.65,18,0.55,4,"Comedy+, MusicPlus, Daily Devotional, CallerTune",1800,High,Night
+08039660774,Smartphone,MTN BetaTalk,920,3.72,0.19,18,1.39,0,None,0,Very-High,All-Day
+08037948307,Smartphone,MTN Monthly 20GB,6399,2.84,4.87,4,26.41,1,Sports SMS,450,High,All-Day
+08035126647,Smartphone,MTN Weekly 1GB,2043,9.41,1.63,8,1.06,3,"Sports SMS, Comedy+, MusicPlus",900,Medium,Evening
+08031546518,Smartphone,MTN BetaTalk,1571,4.45,0.22,4,1.35,1,CallerTune,200,Very-High,Evening
+08038068214,Smartphone,MTN Weekly 1GB,2383,9.38,0.71,1,0.0,0,None,0,Very-High,Morning
+08032472254,Smartphone,MTN Monthly 50GB,11959,2.85,0.11,4,18.07,0,None,0,High,All-Day
+08036149426,Feature Phone,MTN Monthly 50GB,10900,2.83,4.66,15,0.47,0,None,0,Medium,Evening
+08039162468,Smartphone,MTN Monthly 50GB,10694,4.78,1.65,1,25.19,0,None,0,Low,Night
+08032933071,Smartphone,MTN Weekly 1GB,2453,13.01,3.09,1,0.0,0,None,0,Medium,Morning
+08033440446,Smartphone,MTN Monthly 20GB,6135,3.9,3.41,1,16.97,1,Sports SMS,450,Very-High,Morning
+08035257052,Smartphone,MTN Monthly 20GB,6232,3.89,1.88,3,21.39,0,None,0,Low,Evening
+08033575463,Smartphone,MTN Monthly 50GB,11840,8.44,4.32,13,0.26,1,Sports SMS,200,Low,Night
+08035449394,Smartphone,MTN Daily 2GB,2568,8.0,1.4,1,0.41,2,"MusicPlus, Comedy+",900,Medium,Night
+08036717937,Feature Phone,MTN Monthly 50GB,11200,1.27,1.6,4,13.0,3,"Comedy+, VideoVibe, CallerTune",600,Very-High,Night
+08039023562,Smartphone,MTN BetaTalk,3253,8.14,4.03,9,1.39,3,"CallerTune, MusicPlus, VideoVibe",1350,Very-High,Morning
+08038270246,Feature Phone,MTN Monthly 10GB,4120,4.71,3.03,12,1.07,0,None,0,Medium,All-Day
+08031485907,Smartphone,MTN Weekly 1GB,1741,8.05,2.93,17,0.6,0,None,0,High,All-Day
+08034434201,Smartphone,MTN Weekly 1GB,1414,8.84,2.49,1,0.0,0,None,0,Very-High,Morning
+08036445161,Feature Phone,MTN Daily 2GB,1499,4.81,1.48,12,0.37,1,MusicPlus,300,Very-High,All-Day
+08037307176,Smartphone,MTN Weekly 1GB,1102,9.58,3.59,2,0.0,0,None,0,Medium,Night
+08033667456,Feature Phone,MTN BetaTalk,1424,7.29,4.36,13,0.34,0,None,0,Very-High,Morning
+08032124078,Feature Phone,MTN Weekly 1GB,2341,8.56,1.79,1,0.0,0,None,0,Very-High,All-Day
+08036402262,Feature Phone,MTN Monthly 10GB,4083,5.63,2.99,11,0.54,0,None,0,High,Night
+08036100723,Smartphone,MTN Weekly 5GB,3305,9.39,2.1,4,1.58,1,VideoVibe,200,High,Evening
+08031917321,Smartphone,MTN BetaTalk,1268,5.62,2.06,4,1.4,0,None,0,Medium,Night
+08031762254,Smartphone,MTN Weekly 1GB,1251,9.43,1.11,2,0.0,0,None,0,Medium,Night
+08031840300,Smartphone,MTN BetaTalk,1115,5.36,4.31,4,0.05,3,"GameZone, MusicPlus, Daily Devotional",600,High,Night
+08032239021,Smartphone,MTN Monthly 20GB,6746,5.96,3.36,15,1.63,0,None,0,Low,Morning
+08034148219,Smartphone,MTN Monthly 10GB,3777,9.61,3.36,2,0.31,0,None,0,High,Morning
+08037298265,Smartphone,MTN Monthly 20GB,6403,5.41,3.58,13,1.69,1,CallerTune,200,Low,Evening
+08034982151,Feature Phone,MTN Monthly 20GB,6119,0.83,2.15,3,29.89,1,VideoVibe,450,High,Night
+08038561765,Smartphone,MTN Monthly 10GB,5478,8.77,3.3,18,1.19,2,"MusicPlus, VideoVibe",900,Medium,All-Day
+08036736188,Smartphone,MTN Monthly 50GB,11624,1.89,1.03,2,22.74,0,None,0,Medium,Evening
+08031428681,Smartphone,MTN Daily 2GB,1697,9.85,1.71,2,0.0,0,None,0,Medium,Night
+08033427481,Smartphone,MTN Monthly 20GB,6169,7.75,3.06,18,1.38,2,"VideoVibe, GameZone",600,High,Night
+08039214098,Smartphone,MTN Monthly 50GB,10873,9.33,1.92,21,1.05,0,None,0,Very-High,Evening
+08033341674,Smartphone,MTN Daily 2GB,2913,13.15,1.26,0,0.0,3,"CallerTune, GameZone, Sports SMS",1350,Low,All-Day
+08031157279,Smartphone,MTN Weekly 1GB,1753,12.13,4.58,1,0.0,0,None,0,Low,All-Day
+08038077313,Smartphone,MTN Monthly 20GB,7204,9.36,1.32,14,1.7,1,MusicPlus,300,Medium,Night
+08034042885,Smartphone,MTN Weekly 5GB,2790,5.27,1.42,22,1.04,0,None,0,High,All-Day
+08036193645,Smartphone,MTN Weekly 5GB,2950,3.62,0.61,17,1.27,2,"MusicPlus, GameZone",400,Very-High,Evening
+08037853262,Feature Phone,MTN Weekly 5GB,3367,4.8,4.84,25,1.23,0,None,0,Low,Night
+08035265887,Smartphone,MTN Monthly 50GB,11800,2.19,0.76,3,10.2,0,None,0,High,Night
+08034542755,Smartphone,MTN Monthly 50GB,13569,4.7,4.19,5,11.25,4,"GameZone, Daily Devotional, MusicPlus, Sports SMS",1800,Very-High,Evening
+08035770995,Smartphone,MTN Daily 2GB,2791,14.02,3.91,2,0.0,4,"Daily Devotional, VideoVibe, GameZone, Sports SMS",1200,Medium,Morning
+08033384996,Smartphone,MTN Monthly 50GB,11215,7.93,4.4,21,0.8,2,"Sports SMS, Comedy+",400,Medium,Night
+08032407829,Smartphone,MTN Weekly 5GB,2363,3.04,4.13,3,1.61,0,None,0,Medium,Evening
+08035347018,Smartphone,MTN BetaTalk,1795,8.93,0.29,11,1.78,0,None,0,High,Evening
+08035025661,Smartphone,MTN Monthly 20GB,6626,2.83,0.59,4,33.05,3,"GameZone, Comedy+, MusicPlus",900,High,Evening
+08032395049,Smartphone,MTN Monthly 20GB,6678,5.46,2.69,21,0.92,4,"GameZone, CallerTune, Daily Devotional, Comedy+",800,High,Evening
+08034962785,Feature Phone,MTN Daily 2GB,1643,10.23,4.65,2,0.0,0,None,0,Very-High,All-Day
+08038135144,Smartphone,MTN Monthly 50GB,11399,0.97,0.6,1,28.73,0,None,0,Very-High,Evening
+08039464673,Smartphone,MTN Monthly 50GB,11264,3.28,0.01,1,24.11,0,None,0,Low,Night
+08033182101,Smartphone,MTN Daily 2GB,1533,11.74,3.77,0,0.0,0,None,0,High,Evening
+08034260879,Smartphone,MTN Daily 2GB,1040,5.9,1.51,9,1.15,0,None,0,High,Night
+08031421844,Smartphone,MTN Monthly 20GB,7213,2.01,2.82,11,0.97,3,"MusicPlus, GameZone, Comedy+",900,High,Night
